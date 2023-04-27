@@ -1,0 +1,15 @@
+https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
+
+docker pull docker.elastic.co/elasticsearch/elasticsearch:7.13.4
+
+docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.13.4
+
+docker run -p 9200:9200  docker.elastic.co/elasticsearch/elasticsearch:7.13.4
+
+
+https://opendistro.github.io/for-elasticsearch-docs/docs/install/docker/#run-the-image
+
+
+curl -XGET https://localhost:9200 -u 'admin:admin' --insecure
+curl -XGET https://localhost:9200/_cat/nodes?v -u 'admin:admin' --insecure
+curl -XGET https://localhost:9200/_cat/plugins?v -u 'admin:admin' --insecure

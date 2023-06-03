@@ -14,7 +14,8 @@ def elasticsearch_publish(data_path):
 
     #  https://elasticsearch-py.readthedocs.io/en/master/
     # by default we connect to localhost:9200
-    esurl = 'http://localhost:9200'
+    //esurl = 'http://localhost:9200'
+    esurl = 'https://legalapprenticedb.azurewebsites.net'
     es = ElasticSearchWrapper(esurl)
     # es.smoketest()
 

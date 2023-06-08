@@ -187,8 +187,8 @@ if __name__ == "__main__":
     # by default we connect to localhost:9200
     esurl = 'http://localhost:9200'
     
-    data_path = './3-The_Curated_SRS_Dataset'
-    esurl = 'https://legalapprenticedb.azurewebsites.net'
+    #data_path = './3-The_Curated_SRS_Dataset'
+    #esurl = 'https://legalapprenticedb.azurewebsites.net'
     
     elasticsearch_publish(data_path, esurl)
 

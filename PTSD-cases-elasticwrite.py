@@ -183,6 +183,7 @@ if __name__ == "__main__":
     # Getting the list of files in <data_path>:
     data_path = './PTSD-cases'
     data_path = './PTSD-Paragraph-cases'
+    data_path = './SRS-AutoEnrichedFiles'
     
     elasticsearch_publish(data_path)
 

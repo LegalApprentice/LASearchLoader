@@ -1,4 +1,5 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.17.1
+#FROM docker.elastic.co/elasticsearch/elasticsearch:7.17.1
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.17.10
 
 ENV discovery.type=single-node
 ENV xpack.security.enabled=false

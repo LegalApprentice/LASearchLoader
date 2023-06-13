@@ -178,9 +178,6 @@ def elasticsearch_publish(data_path, eurl):
      
 if __name__ == "__main__":                
     # Getting the list of files in <data_path>:
-    data_path = './PTSD-cases'
-    data_path = './SRS-AutoEnrichedFiles'
-    data_path = './PTSD-Paragraph-cases'
     data_path = './1-The_FS-PTSD_Dataset'
     
     #  https://elasticsearch-py.readthedocs.io/en/master/

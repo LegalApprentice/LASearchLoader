@@ -1,0 +1,36 @@
+version: '3.3'
+services:
+  elasticsearch:
+    image: iobtassets.azurecr.io/elasticsearch:v1.0.0
+    container_name: elasticsearch
+    volumes:
+      - "fileshare-elasticsearch:/usr/share/elasticsearch/data"
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - ELASTIC_CONTAINER=true
+    ports:
+      - 9200:9200
+      - 9300:9300
+  iobtdataadapter:
+    depends_on:
+      - elasticsearch
+    container_name: iobtdataadapter
+    image: iobtassets.azurecr.io/iobtdataadapter:v1.0.1
+    ports:
+      - 80:80
+      - 443:443
+      - 8200:80
+      - 8201:443
+
+
+
+
+
+
+
+
+
+
+
+

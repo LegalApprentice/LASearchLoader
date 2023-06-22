@@ -10,11 +10,9 @@ from elastic_search_wrapper import ElasticSearchWrapper
 
 
 
-def elasticsearch_publish(data_path):
+def elasticsearch_publish(data_path, eurl):
 
-    #  https://elasticsearch-py.readthedocs.io/en/master/
-    # by default we connect to localhost:9200
-    esurl = 'http://localhost:9200'
+
     es = ElasticSearchWrapper(esurl)
     # es.smoketest()
 
@@ -180,8 +178,21 @@ def elasticsearch_publish(data_path):
      
 if __name__ == "__main__":                
     # Getting the list of files in <data_path>:
-    data_path = './PTSD-cases'
+    data_path = './1-The_FS-PTSD_Dataset'
     data_path = './PTSD-Paragraph-cases'
     
-    elasticsearch_publish(data_path)
+    #  https://elasticsearch-py.readthedocs.io/en/master/
+    # by default we connect to localhost:9200
+    esurl = 'http://localhost:9200'
+    
+    data_path = './3-The_Curated_SRS_Dataset'
+    esurl = 'https://legalapprenticedb.azurewebsites.net'
+    
+    elasticsearch_publish(data_path, esurl)
 
+
+
+# python PTSD-cases-elasticwrite.py
+#  docker run -d -p 9200:9200 --name elasticsearch elasticsearch
+#  use this for persistent storage
+#  docker run -d -p 9200:9200 -p 9300:9300 -v data:/usr/share/elasticsearch/data --name elasticsearch elasticsearch

@@ -180,15 +180,15 @@ if __name__ == "__main__":
     # Getting the list of files in <data_path>:
     data_path = './PTSD-cases'
     data_path = './SRS-AutoEnrichedFiles'
-    data_path = './PTSD-Paragraph-cases'
     data_path = './1-The_FS-PTSD_Dataset'
+    data_path = './PTSD-Paragraph-cases'
     
     #  https://elasticsearch-py.readthedocs.io/en/master/
     # by default we connect to localhost:9200
     esurl = 'http://localhost:9200'
     
-    #data_path = './3-The_Curated_SRS_Dataset'
-    #esurl = 'https://legalapprenticedb.azurewebsites.net'
+    data_path = './3-The_Curated_SRS_Dataset'
+    esurl = 'https://legalapprenticedb.azurewebsites.net'
     
     elasticsearch_publish(data_path, esurl)
 

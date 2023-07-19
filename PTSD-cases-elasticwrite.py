@@ -43,6 +43,8 @@ def elasticsearch_publish(data_path, eurl):
     # Using a for-loop to iterate over the filenames...
     for filename in list_of_files:
         # print ( f"{data_path}/{filename}" )
+        if ( filename.find('.json') == -1):
+            continue
         
         print ( f"")
 

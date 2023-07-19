@@ -1,0 +1,162 @@
+Citation Nr: 1815740	
+Decision Date: 03/15/18    Archive Date: 03/23/18
+
+DOCKET NO.  14-22 611 	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in St. Paul, Minnesota
+ 
+
+THE ISSUES
+
+1.  Entitlement to service connection for obstructive sleep apnea, to include as secondary to service-connected post-traumatic stress disorder (PTSD).
+
+2.  Entitlement to a disability rating in excess of 70 percent for PTSD.
+
+3.  Entitlement to a total disability rating based on individual unemployability (TDIU).
+
+
+REPRESENTATION
+
+Appellant represented by:	J. Michael Woods, Attorney
+
+
+ATTORNEY FOR THE BOARD
+
+A. Faverio, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran had active service from February to August 2001 and from March 2004 to October 2005.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from rating decisions by the Department of Veterans Affairs (VA) Regional Office (RO) in St. Paul, Minnesota.  
+
+The issues of service connection for obstructive sleep apnea and entitlement to a TDIU are REMANDED to the AOJ.  VA will notify the Veteran if further action is required.
+
+
+FINDING OF FACT
+
+The Veteran's service-connected PTSD is manifested by no more than occupational and social impairment with deficiencies in most areas, such as work, family relations, judgment, thinking, or mood, due to various symptoms; the symptoms do not result in both total occupational and social impairment.
+
+
+CONCLUSION OF LAW
+
+The criteria for an initial rating in excess of 70 percent for PTSD have not been met.  38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 3.102, 3.321, 4.1, 4.2, 4.3, 4.7, 4.10, 4.21, 4.125, 4.126, 4.130, Diagnostic Code 9411 (2017).
+
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities (Rating Schedule) and are intended to represent the average impairment of earning capacity resulting from disability.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.  
+
+If the disability more closely approximates the criteria for the higher of two ratings, the higher rating will be assigned; otherwise, the lower rating is assigned.  38 C.F.R. § 4.7.  It is not expected that all cases will show all the findings specified; however, findings sufficiently characteristic to identify the disease and the disability therefrom and coordination of rating with impairment of function will be expected in all instances.  38 C.F.R. § 4.21.  
+
+In deciding this appeal, the Board has considered whether separate ratings for different periods of time, based on the facts found, are warranted, a practice of assigning ratings referred to as "staging the ratings."  See Fenderson v. West, 12 Vet. App. 119 (1999).  
+
+When evaluating a mental disorder, the rating agency shall consider the frequency, severity, and duration of psychiatric symptoms, the length of remissions, and the Veteran's capacity for adjustment during periods of remission.  The rating agency shall assign an evaluation based on all the evidence of record that bears on occupational and social impairment rather than solely on the examiner's assessment of the level of disability at the moment of the examination.  When evaluating the level of disability from a mental disorder, the rating agency will consider the extent of social impairment, but shall not assign an evaluation solely on the basis of social impairment.  38 C.F.R. § 4.126.
+
+The U.S. Court of Appeals for the Federal Circuit (Federal Circuit) has explained that the list of symptoms under 38 C.F.R. § 4.130 is a nonexhaustive list, as indicated by the words "such as" that precede each list of symptoms.  Vazquez-Claudio v. Shinseki, 713 F.3d 112, 115 (Fed. Cir. 2013).  In Vazquez-Claudio, the Federal Circuit held that a veteran may only qualify for a given disability rating under 38 C.F.R. § 4.130 by demonstrating the particular symptoms associated with that percentage or others of similar severity, frequency, and duration.  Id. at 118.  Other language in the decision indicates that the phrase "others of similar severity, frequency, and duration," can be thought of as symptoms of like kind to those listed in the regulation for a given disability rating.  Id. at 116.
+
+Under the General Rating Formula for Mental Disorders, an evaluation of 70 percent for PTSD will be assigned where there is evidence of occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a worklike setting); inability to establish and maintain effective relationships.  Id.
+
+A 100 percent rating is assigned when there is total occupational and social impairment, due to such symptoms as gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; and memory loss for names of close relatives, own occupation or own name.  Id.
+
+When it is not possible to separate the effects of a non-service-connected condition from those of a service-connected disorder, reasonable doubt should be resolved in the claimant's favor with regard to the question of whether certain signs and symptoms can be attributed to the service-connected disability.  See Mittleider v. West, 11 Vet. App. 181, 182 (1998).
+
+
+III.	Analysis
+
+In considering the evidence of record under the laws and regulations set forth above, the Board concludes that the Veteran is not entitled to a disability rating in excess of 70 percent for his PTSD for any part of the period on appeal and finds that, in this case, the clinical evidence more closely reflects the criteria for the 70 percent rating.  The Veteran's PTSD symptoms include ongoing depressed mood, anxiety, occupational and social impairment with deficiencies in most areas, anxiety, social isolation, occasional suicidal ideation, and chronic sleep impairment.
+
+The Veteran was granted service connection for PTSD in November 2010 and granted a 30 percent disability rating, effective December 16, 2009.  The Veteran submitted a claim requesting an increase in September 2011.  See VA 21-526b, Veteran Supplemental Claim.  In December 2012, the RO increased the Veteran's initial disability rating from 30 percent to 50 percent, with an effective date of December 16, 2009.  In February 2013, the Veteran submitted a VA Form 21-8940, Veterans Application for Increased Compensation Based on Unemployability, due to his PTSD.  In November 2013, the RO denied TDIU, but increased the Veteran's PTSD disability rating from 50 percent to 70 percent, effective February 27, 2013.  
+
+The Veteran was afforded a VA examination in June 2013 for his PTSD.  The examiner reviewed the Veteran's claim file and stated that the Veteran's occupational and social impairment was best summarized as "occupational and social impairment with occasional decreased in work efficiency and intermittent periods of inability to perform occupational tasks, although generally functioning satisfactorily, with normal routine behavior, self-care and conversation."  The examiner also stated that the Veteran had ongoing issues with mental health PTSD, anxiety and depression, which are more likely associated with behavior health issues such as memory/attention problems.  On examination, the Veteran's symptoms included depressed mood, anxiety, chronic sleep impairment, mild memory loss, such as forgetting names, directions or recent events, difficulty in adapting to stressful circumstances, including work or a work-like setting, and neglect of personal appearance and hygiene.  For example, the examiner reported that the Veteran presented rather poorly groomed (i.e., long, oily hair) in casual dress.  The Veteran's affect was stable and relaxed but described his typical mood as "nervous, easy-going sometimes," depending on where he is, stating that when he goes out, he is withdrawn.
+
+The Veteran was then afforded an examination in November 2014 by a private treatment provider.  The examiner noted that the Veteran's psychosocial and environmental problems included unemployment, financial difficulties, and problems with his primary support group.  The examiner summarized his occupational and social impairment as "occupational and social impairment with deficiencies in most areas, such as work, school family relations, judgment, thinking and/or mood."  The Veteran's symptoms were documented as depressed mood, anxiety, suspiciousness, panic attacks that occur weekly or less often, near-continuous panic or depression affecting the ability to function independently, appropriately and effectively, chronic sleep impairment, mild memory loss, such as forgetting names, directions or recent events, flattened affect, disturbances of motivation and mood, difficulty in establishing and maintaining effective work and social relationships, difficulty in adapting to stressful circumstances, including work or a work-like setting, inability to establish and maintain effective relationships, suicidal ideation, persistent delusions or hallucinations, neglect of personal appearance and hygiene, and intermittent ability to perform activities of daily living, including maintenance of minimal personal hygiene.
+
+This examiner reported that the Veteran stated he could "no longer enjoy the simplest of activities."  The examination report reflected that the Veteran's attention was normal and concentration appeared variable.  He complained of increased trouble with short- and long-term memory and struggled with remembering basic information.  The Veteran reported of overt hallucinations.  The Veteran's mood was anxious and nervous and his affect was restricted.  The Veteran did report feeling anxious and depressed and endorsed symptomatology of PTSD, as even with the examiner he appeared suspicious and vigilant. 
+
+A medical opinion for the Veteran's ability to perform work-related activities was completed by the examiner.  The examiner found that the Veteran missed 3 or more days per month because of mental problems.  The Veteran needed to leave early from the workplace 3 or more days per month because of mental problems.  For more than 3 days per month, the Veteran would not stay focused for at least 7 hours of an 8 hour workday.  More than once per month, the Veteran would respond in an angry manner but would not actually become violent when subjected to the normal pressures and constructive criticisms of a job.
+
+In May 2015, the Veteran was again afforded a VA examination by a psychologist who reviewed the Veteran's claims file and conducted an in-person interview of the Veteran.  The examiner noted that the Veteran had 3 diagnoses - alcohol use disorder, cannabis use disorder, and PTSD.  When asked if it was possible to differentiate which symptoms are attributable to each diagnosis, the examiner stated that the Veteran's substance abuse is too pervasive and his self-report was non-credible.  The examiner summarized the Veteran's level of occupational and social impairment with regards to all mental diagnoses as "occupational and social impairment with reduced reliability and productivity."  In this regard, the examiner stated that the "Veteran's current impairment is secondary to substance abuse and disengagement in appropriate mental health treatment."  At the time of examination, the Veteran reported working 12 hours per week as a gardener for a country club, but stated that he did not like it, did not like sitting in traffic, and felt "like a servant there."
+
+The examiner documented his observations of the Veteran's behavior as alert and oriented, with appropriate grooming and dress.  The Veteran had good eye contact and was in no apparent pain or distress.  He described his mood as "down" but could not articulate why, stating "just life in general" as the reason for his mood.  The Veteran endorsed chronic symptoms of depression including: low mood, hopelessness, helplessness, worthlessness, anhedonia, and isolation.  The Veteran claimed to have chronic anxiety and panic attacks weekly, lasting 45 minutes.  The Veteran also claimed to have adequate memory except for people's names.  He stated that he did not know the name of his boss, coworkers, or the names of the plants he works with.  He reported some suicidal ideation but denied homicidal ideation or psychosis.
+
+Despite these reports, the examiner found that "the profile is invalid for interpretation due to a non-credible pattern of responses.  The Veteran end[o]rsed a large number of deviant psychiatric symptoms that are not even claimed among severely ill psychiatric inpatients.  Similarly, he endorsed a non-credible pattern of somatic and cognitive symptoms that are not reported among individuals with bona fide health disease or cognitive disorders.  Overall, the profile pattern is consistent with individuals who exaggerate or malinger psychiatric, health, and somatic symptoms."  In his opinion, it is unlikely that the Veteran is experiencing functional impairments with the degree of severity claimed.  In his rationale, the examiner stated that the Veteran's alcohol and cannabis use are most likely the primary cause for impairments and probably some symptoms as well.
+
+The Veteran was again afforded a VA examination in September 2016.  The examiner was unable to access the Veteran's electronic claims file, but reviewed previous VA examination reports and medical records available for treatment from the time following the last VA examination and current providers.
+
+The Veteran was assessed with PTSD, but no other mental health diagnosis was given.  The examiner stated that the Veteran's PTSD included anxiety, poor concentration, irritability, intrusive thoughts and nightmares, depressed mood, and hypervigilance.  The examiner noted a history of a traumatic brain injury (TBI) but the symptoms overlapped with concentration and memory issues associated with PTSD, anxiety, and depression.  The examiner summarized the Veteran's level of occupational and social impairment as "occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking and/or mood."  The Veteran reported that he does not feel that he is capable of working because he does not know how to manage his frustration and agitation when dealing with people.  He reported being uncomfortable in areas that people are around and he has difficulty keeping track of all the things he has to do.
+
+The Veteran was not working at the time of the examination, but worked seasonally at a greenhouse for approximately 15 hours a week.  He was seen by a psychiatrist every 6 months, though he reported disliking driving in traffic and had no health insurance so he did not seek mental health treatment other than medications.  The examiner conducted the PTSD diagnostic criteria.  Under criterion B, the Veteran reported having dreams of being back in the Army, where they will not allow him to leave and there are fire fights and motor attacks going on around him.  He also stated getting angry; his heart rate increases and he experiences shortness of breath.  He stated these were often triggered by loud noises and helicopters.  The Veteran used to gun hunt but now only hunts with a bow and arrows and does not go out when gun-hunting season begins.  Under criterion C, the Veteran reported he did not like being in crowds where he cannot keep track of everything going on around him.  He does not like to go to the area where he was in the National Guard and he avoids talking to anyone from his unit.  Under criterion E, the Veteran reported drinking too much, though he did not drink and drive.  
+
+Symptoms of PTSD included depressed mood (helped by medication but experienced depression at least a few times per week); anxiety (the Veteran described feeling "okay" at home but experiencing anxiety when he left the house); chronic sleep impairment; mild memory loss, such as forgetting names, directions or recent events - focus and concentration problems); flattened affect; difficulty in understanding complex commands/hard to follow verbal commands; impaired judgment (the Veteran sometimes abuses alcohol; he "flies off the handle" easily; he feels he made poor decisions concerning college; he had a fantasy that with his knowledge of horticulture he would be able to go away and live off the land somewhere growing his own food and living with just his family.  He realizes this is an unrealistic plan now and feels he has wasted his 4 years of college on a degree he cannot do anything with); disturbances of motivation and mood; difficulty in establishing and maintaining effective work and social relationships; difficulty in adapting to stressful circumstances, including work or a work-like setting; suicidal ideation (he has thoughts of killing himself by drinking and self-destruction and reckless behavior); obsessional rituals which interfere with routine activities; grossly inappropriate behavior (the Veteran reports not having a filter and says things that are hurtful to others, even when he does not mean to); feelings of hopelessness; feelings of guilt or worthlessness.  The examiner stated that there were no other symptoms attributable to PTSD not listed.
+
+The examiner documented the Veteran's mental status and behavioral observations.  He noted that the Veteran appeared alert and oriented.  The Veteran described his general mood as somewhat agitated when going through security at the medical center and he was anxious but pleasant during the interview.  The Veteran described having trouble falling and staying asleep.  His concentration is poor.  He denied manic/hypomanic episodes and phobic avoidances.  He described a number of hypervigilant behaviors and reported that he tended to startle easily as well. 
+
+Post-service treatment records show that the Veteran has consistently and continuously been treated for PTSD following service. 
+
+There is no question that the Veteran's psychiatric disability is productive of a high degree of impairment, as reflected by the 70 percent evaluation currently in effect.  However, the Veteran has not exhibited symptoms such as gross impairment in thought process or communication, persistent delusions or hallucinations, intermittent inability to perform activities of daily living; or disorientation to time or place.  In this regard, the evidence does not show that the Veteran has severe memory issues such as an inability to remember even his own name or the name of close relatives.  Although the Veteran reported at the 2015 VA examination that he could not remember the names of his co-workers or the names of the plants he works with, the examiner found that the Veteran had endorsed a number of psychiatric symptoms that are not even claimed among severely ill psychiatric inpatients as well as endorsing a non-credible pattern of somatic and cognitive symptoms that are not reported among individuals with bona fide health disease or cognitive disorders.  The examiner noted that the Veteran's profile pattern was consistent with individuals who exaggerate or malinger psychiatric, health, and somatic symptoms.  The examiner noted that it is unlikely that the Veteran is experiencing functional impairments with the degree of severity claimed.  
+
+Additionally, though the Veteran is not comfortable with crowds and becomes agitated when dealing with others, the Veteran is married, attended school (though he has clarified that he took online courses where available and studied alone in the library), and works seasonally.  Moreover, the Veteran has consistently been alert and oriented at all psychiatric evaluations and none of the examiners have indicated he is a persistent danger to himself or others.  Thus, total social impairment is not demonstrated.  Moreover, at no point during the appeal have any examiners found that the Veteran's psychiatric symptoms result in total occupational and social impairment.
+
+In totality, the record does not show that the Veteran has symptoms that have ever resulted in total occupational and social impairment.  Therefore, the Board finds that the criteria for 100 percent schedular disability rating have not been met.
+
+Lastly, the Court has held that a request for a total disability based on individual unemployability (TDIU), whether expressly raised by Veteran or reasonably raised by the record, is not a separate "claim" for benefits, but rather, can be part of a claim for increased compensation.  Rice v. Shinseki, 22 Vet. App. 447, 453-54 (2009).  In other words, if the claimant or the evidence of record reasonably raises the question of whether the Veteran is unemployable due to a disability for which an increased rating is sought, then part and parcel with the increased rating claim is the issue of whether a TDIU is warranted as a result of that disability.  Id.
+
+In this case, the Veteran has applied for TDIU, which is addressed in the Remand section below.  As such, the Board will not revisit the issue in this decision.
+
+
+ORDER
+
+A disability rating in excess of 70 percent for PTSD is denied.
+
+
+
+REMAND
+
+Entitlement to Service Connection for Obstructive Sleep Apnea, to include as Secondary to Service-Connected Post-Traumatic Stress Disorder (PTSD)
+
+The Veteran is seeking service connection for obstructive sleep apnea.  A review of the Veteran's service treatment records (STRs) does not show that the Veteran was diagnosed with, or treated for, obstructive sleep apnea in service.  A review of post-service treatment records show that the Veteran was diagnosed with sleep apnea in August 2014 and is being treated for obstructive sleep apnea and is currently prescribed a CPAP machine to aid with sleeping, though the Veteran finds it uncomfortable and does not utilize it.
+
+The record shows that the Veteran is claiming service connection as secondary to his service-connected PTSD; however, further development is necessary to determine whether the Veteran's obstructive sleep apnea is secondarily caused by the Veteran's PTSD.  Additionally, with his attorney's May 2017 Brief in Response to 90 Day Letter, the Veteran submitted medical articles linking mental health disorders to sleep disorders, including sleep apnea.  These have not been reviewed by a medical professional.  On remand, the articles must be reviewed to assess whether the Veteran's specific mental health condition has secondarily caused his sleep apnea condition.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU)
+
+With respect to the Veteran's claims for TDIU, the Board finds that this claim is inextricably intertwined with his claim seeking service connection for sleep apnea.  Therefore, the appropriate remedy where a pending claim is inextricably intertwined with a claim currently on appeal is to remand the claim on appeal pending the adjudication of the inextricably intertwined claim.  Harris v. Derwinski, 1 Vet. App. 180 (1991).
+
+
+Accordingly, the case is REMANDED for the following action:
+
+
+1.  The Veteran should be scheduled for a VA medical examination to determine the nature and etiology of his current sleep disorder.  Access to the Veteran's electronic VA claims file should be made available to the examiner for review in connection with the examination.  After reviewing the claims file, the examiner should provide an opinion, with supporting rationale, as to the following:
+
+Is it at least as likely as not (a 50 percent probability or greater) that the Veteran's sleep apnea is caused by his service-connected PTSD?
+
+If not, is it at least as likely as not (a 50 percent probability or greater) that the Veteran's sleep apnea is aggravated by his service-connected PTSD?
+
+In answering these questions, the examiner must review and address the significance of the evidence submitted by the Veteran regarding the potential for a relationship between psychiatric disorders and sleep apnea.
+
+The term "aggravation" is defined as a chronic worsening of the nonservice-connected condition by the service-connected condition, not merely temporary or intermittent flare-ups.  
+
+If the sleep apnea is aggravated by the service-connected PTSD, the examiner should indicate the extent of such aggravation by identifying the baseline level of disability prior to aggravation.  This may be ascertained by the medical evidence of record and also by the Veteran's statements as to the nature, severity, and frequency of his observable symptoms over time.
+
+A complete rationale and reasoning for any opinion rendered must be provided.  
+
+2.  Thereafter, readjudicate the claims.  If any benefit sought remains denied, the Veteran and his representative should be provided a supplemental statement of the case and given an opportunity to respond before the case is returned to the Board.
+
+The Veteran has the right to submit additional evidence and argument on the matters the Board has remanded.  Kutscherousky v. West, 12 Vet. App. 369 (1999).
+
+This claim must be afforded expeditious treatment.  The law requires that all claims that are remanded by the Board or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.  See 38 U.S.C. §§ 5109B, 7112 (2012).
+
+
+
+_________________________________________________
+M. HYLAND
+Veterans Law Judge, Board of Veterans' Appeals
+
+Under 38 U.S.C.A. § 7252 (West 2014), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.  This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.  38 C.F.R. § 20.1100(b) (2017).
+

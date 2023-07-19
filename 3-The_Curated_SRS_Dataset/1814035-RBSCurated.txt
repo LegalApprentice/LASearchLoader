@@ -1,0 +1,261 @@
+Citation Nr: 1814035	
+Decision Date: 03/08/18    Archive Date: 03/14/18
+
+DOCKET NO.  14-16 762	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Sioux Falls, South Dakota
+
+
+THE ISSUES
+
+1. Entitlement to service connection for bilateral hearing loss.
+
+2. Entitlement to service connection for a sleep disorder, to include as secondary to service-connected posttraumatic stress disorder (PTSD).
+
+3. Entitlement to an initial evaluation in excess of 50 percent for PTSD.
+
+4. Entitlement to a total disability rating for compensation based on individual unemployability (TDIU).
+
+
+REPRESENTATION
+
+Veteran represented by:	Shannon K. Holstein, Attorney
+
+
+
+
+ATTORNEY FOR THE BOARD
+
+Erin J. Carroll, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty from April 2004 to November 2006.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from rating decisions dated in May 2013, June 2013, and July 2014 by the Department of Veterans Affairs (VA) Regional Office (RO) in Sioux Falls, South Dakota.
+
+This matter was previously remanded in February 2016 for further development and has now returned to the Board.
+
+The Board notes that a July 2016 rating decision granted service connection for alcohol use disorder, secondary to service-connected PTSD.  As the Veteran has not expressed disagreement with this rating decision, this issue is not currently before the Board.
+
+
+FINDINGS OF FACT
+
+1. The Veteran does not have a current bilateral hearing loss disability for VA purposes.
+
+2. The evidence of record favors a finding that the Veteran's sleep disorder was caused by his service-connected PTSD.
+
+3. For the entire timeframe on appeal, the Veteran's PTSD was manifested by symptoms such as anxiety, depressed mood, suspiciousness, chronic sleep impairment, mild memory loss, concentration difficulties, nightmares, intrusive thoughts, exaggerated startle response, hypervigilance, avoidance behaviors, feelings of detachment, impaired impulse control, and difficulty in establishing and maintaining effective work and social relationships; all resulting in occupational and social impairment with reduced reliability and productivity.
+
+4. At no time during the appeal period did the Veteran's service-connected disabilities preclude him from obtaining and retaining substantially gainful employment.
+
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for bilateral hearing loss have not been met.  38 U.S.C. §§ 1110, 1131, 5107 (2012); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309, 3.385 (2017).
+
+2. The criteria for the establishment of service connection for a sleep disorder have been met on a secondary basis.  38 U.S.C. §§ 1110, 1131, 5107(b) (2012); 38 C.F.R. §§ 3.102, 3.310 (2017).
+
+3. For the period on appeal, the criteria for a rating in excess of 50 percent for PTSD have not been met.  38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 4.1, 4.2, 4.3, 4.7, 4.10, 4.130, Diagnostic Code 9411 (2017).
+
+4. The criteria for entitlement to a TDIU due to service-connected disabilities are not met.  38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 3.102, 3.340, 3.341, 4.16 (2017).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+I. Duties to Notify and Assist
+
+Neither the Veteran nor his representative has raised any issues with the duty to notify or duty to assist.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board . . . to search the record and address procedural arguments when the veteran fails to raise them before the Board."); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to a duty to assist argument).
+
+II. Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.  38 U.S.C. §§  1110, 1131; 38 C.F.R. § 3.303(a).  Service connection may also be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).  
+
+Direct service connection may not be granted without evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disease or injury.  38 U.S.C. § 1112; 38 C.F.R. § 3.304.  See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+In addition to the regulations cited above, service connection is warranted for a disability which is aggravated by, proximately due to, or the result of a service-connected disease or injury.  38 C.F.R. § 3.310.  Any additional impairment of earning capacity resulting from an already service-connected condition, regardless of whether or not the additional impairment is itself a separate disease or injury caused by the service-connected condition, should also be compensated.  Allen v. Brown, 7 Vet. App. 439 (1995).  When service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition.  Id.  
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990). 
+
+	A. Bilateral Hearing Loss
+
+The Veteran contends that he suffers from bilateral hearing loss as a result of his exposure to noise during service.
+
+Service connection for impaired hearing is subject to 38 C.F.R. § 3.385, which provides that impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.
+
+The Veteran was afforded a VA audiological examination in July 2012, about 6 years after his separation from service.  Pure tone thresholds, measured in decibels, were as follows:
+
+
+
+
+HERTZ
+
+
+
+500
+1000
+2000
+3000
+4000
+RIGHT
+10
+15
+10
+5
+-5
+LEFT
+5
+15
+10
+5
+15
+
+Speech audiometry revealed speech recognition ability of 98 percent in the right ear and of 95 percent in the left ear.
+
+The Board acknowledges that the Veteran's October 2006 separation examination noted exposure to loud noises, as well as mild hearing loss since enlistment.  At the time of the October 2006 examination, puretone thresholds, in decibels, were as follows:
+
+
+
+
+HERTZ
+
+
+
+500
+1000
+2000
+3000
+4000
+RIGHT
+30
+25
+15
+15
+25
+LEFT
+25
+10
+15
+20
+25
+
+However, even at the time of separation, the Veteran did not demonstrate a hearing loss to the degree of severity required to be considered a disability for VA purposes.  
+
+Throughout the entire appeal period, the Veteran has not demonstrated that he has a current hearing loss disability as defined by VA.  In comparing the results of the VA examination to the regulatory criteria set forth in 38 C.F.R. § 3.385, the Board must conclude that the preponderance of the evidence is against a finding that the Veteran currently suffers from a bilateral hearing loss disability as defined for VA compensation purposes.  Importantly, no other competent medical evidence in the record indicates a hearing loss disability in accordance with 38 C.F.R. § 3.385.  See also McClain v. Nicholson, 21 Vet. App. 319, 321 (2007) (explaining that the requirement of a current disability can be satisfied when the claimant has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim, and that a claimant may be granted service connection even though the disability resolves prior to adjudication of the claim).  In this regard, the Veteran does not have an auditory threshold of 40 decibels or greater in any of the frequencies or 26 decibels or greater for at least three of the frequencies.  Further, his speech recognition scores using the Maryland CNC Test are 94 percent or greater bilaterally.  In the absence of proof of a present disability, there can be no valid claim for service connection as Congress has specifically limited entitlement to service connection to cases where such incidents have resulted in a disability.  Brammer v. Derwinski, 3 Vet. App. 223 (1992).
+
+In reaching this decision, the Board has considered the Veteran's arguments in support of his assertions that he suffers from bilateral hearing loss as a result of his service.  However, the resolution of an issue that involves medical knowledge, such as the diagnosis of a disorder, requires professional evidence.  It is true that the Veteran's lay statements may be competent to support a claim for service connection by supporting the occurrence of lay-observable events or the presence of the disorder or symptoms of the disorder subject to lay observation.  See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); Buchanan v. Nicholson, 451 F.3d 1331 (Fed. Cir. 2006) (addressing lay evidence as potentially competent to support presence of disorder even where not corroborated by contemporaneous medical evidence).  However, bilateral hearing loss is determined by the results of audiological testing, and is therefore not solely disposed of lay opinions as to diagnosis and/or etiology.
+
+In reaching this decision, the Board has considered the applicability of the benefit of the doubt doctrine.  However, the preponderance of the evidence is against the Veteran's claim of entitlement to service connection for bilateral hearing loss, and the appeal is denied.
+
+	B. Sleep Disorder
+
+The Veteran was diagnosed with insomnia in March 2010.  See March 26, 2010, VA Treatment Record.  Additionally, he was diagnosed with a sleep disorder at the time of the August 2012 VA psychological examination.  See August 2010 VA Psychological Examination Report. 
+
+In July 2016, the Veteran underwent a VA psychological examination, at which time the examiner concluded that the Veteran's sleep difficulties were at least at likely as not due to his PTSD.  He reasoned that sleep impairment is a common symptom of PTSD, and resulted from nightmares and intrusive thoughts as reported by the Veteran.  The Board finds this opinion to be highly probative.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).      
+
+The Board notes that, at the time of the July 2016 examination, the examiner did not provide a separate diagnosis of a sleep disorder, as the DSM-5 criteria for insomnia stated that "coexisting mental disorder and medical conditions do not adequately explain the predominant complaint of insomnia."  However, although the July 2016 examiner did not determine that the Veteran had a separate diagnosis of a sleep disorder, multiple VA treatment records and previous VA psychological examination reports diagnosed the Veteran with both insomnia and a sleep disorder.  Thus, the Board is persuaded by the July 2016 examiner's opinion, which indicates that the Veteran's previously diagnosed sleep disorder is caused, or is at least aggravated, by his service-connected PTSD.  Thus, the Board finds that the evidence both for and against the Veteran's service-connection claim is at the very least in equipoise, demonstrating that the Veteran has a current sleep disorder that is at least as likely as not caused or aggravated by his service-connected PTSD.  The benefit sought on appeal is granted.   
+
+III. Increased Rating for PTSD
+
+The Veteran is currently in receipt of service connection for PTSD evaluated as 50 percent disabling.  For the reasons described below, the Board finds that the Veteran's PTSD does not warrant a rating in excess of 50 percent at any time during the period on appeal.
+
+Law and Regulations
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities (Rating Schedule).  38 C.F.R. Part 4 (2017).  The Rating Schedule is primarily a guide in the evaluation of disabilities resulting from all types of diseases and injuries encountered as a result of or incident to military service.  The ratings are intended to compensate, as far as can practicably be determined, the average impairment of earning capacity resulting from such diseases and injuries and their residual conditions in civilian occupations.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.  
+
+Where the appeal arises from the original assignment of a disability evaluation following an award of service connection, the severity of the disability at issue is to be considered during the entire period from the initial assignment of the disability rating to the present time.  See Fenderson v. West, 12 Vet. App. 119 (1999).  Staged ratings are appropriate for an increased rating claim whenever the factual findings show distinct time periods where the service-connected disability exhibits symptoms that would warrant different ratings.  See Hart v. Mansfield, 21 Vet. App. 50 (2007).
+
+VA should interpret reports of examination in light of the whole recorded history, reconciling the various reports into a consistent picture so that the current rating may accurately reflect the elements of disability.  38 C.F.R. § 4.2.  Any reasonable doubt regarding the degree of disability shall be resolved in favor of the claimant.  38 C.F.R. § 4.3.  Where there is a question as to which of two evaluations apply, the higher of the two should be assigned where the disability picture more nearly approximates the criteria for the next higher rating.  38 C.F.R. § 4.7. 
+
+The Board has reviewed all of the evidence in the Veteran's claims file, with an emphasis on the medical and lay evidence for the issue on appeal.  Although the Board has an obligation to provide reasons and bases supporting this decision, there is no need to discuss, in detail, the extensive evidence of record.  Indeed, the Federal Circuit has held that the Board must review the entire record, but does not have to discuss each piece of evidence.  Gonzalez v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000).  Therefore, the Board will summarize the relevant evidence where appropriate, and the Board's analysis below will focus specifically on what the evidence shows, or fails to show, as to the claim.
+
+Under Diagnostic Code 9411, a 50 percent rating is warranted when there is occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; and difficulty in establishing and maintaining effective work and social relationships.  Id.
+
+A 70 percent rating is warranted when there is occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work-like setting); and inability to establish and maintain effective relationships.  Id.
+
+A 100 percent rating is warranted when there is total occupational and social impairment due to such symptoms as gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; and memory loss for names of close relatives, own occupation, or own name.  Id.
+
+In order to be assigned a particular rating, a Veteran need not demonstrate the presence of all, most, or even some, of the symptoms listed as examples in the rating criteria.  See Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002).  The key element for a rating under the General Formula for Mental Disorders is the degree of social and occupational impairment caused by those symptoms.
+
+Further, the United States Court of Appeals for the Federal Circuit has acknowledged the "symptom-driven nature" of the General Rating Formula and that "a veteran may only qualify for a given disability rating under § 4.130 by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration."  Vazquez-Claudio v. Shinseki, 713 F.3d 112, 116 (Fed. Cir. 2013).  The Federal Circuit has explained that "symptomatology should be the fact-finder's primary focus when deciding entitlement to a given disability rating."  Id. at 117.
+
+Analysis
+
+In August 2012, the Veteran was afforded a VA psychological examination.  He described having positive relationships with his family and friends.  He was employed as a firefighter and was enrolled in college courses.  He reported symptoms including avoidance behaviors, insomnia, startle responses, and anxiety.  The examiner determined that he displayed occupational and social impairment due to mild or transient symptoms which decreased work efficiency and the ability to perform occupational tasks only during periods of significant stress. 
+
+In December 2012, the Veteran underwent a second VA psychological examination.  He continued to have positive relationships with his family and friends.  He explained that he was unemployed and had not been able to complete the current college semester due to a recent arrest as a result of substance abuse.  He reported symptoms including chronic sleep impairment, anxiety, and depression.  He was noted to be withdrawn and fully oriented, with normal speech, attention, and concentration.  No unusual behaviors were observed during the examination.  He denied experiencing memory loss, hallucinations, delusions, or suicidal or homicidal intent.  He described his mood as "good most days."  The examiner determined that he displayed occupational and social impairment due to mild or transient symptoms which decreased work efficiency and the ability to perform occupational tasks only during periods of significant stress.
+
+In January 2013, post-service VA treatment records reflect that, on two occasions, the Veteran reported occasional thoughts of suicide and sometimes wished he was dead.  Treatment providers did not find these thoughts to be persistent.  See January 8, 2013 and January 17, 2013 VA Treatment Records.
+
+In April 2013, the Veteran was afforded a third VA examination to evaluate his PTSD.  He described maintaining contact with his father and friends from high school, as well as casual local friends.  He also stated that he enjoyed several hobbies, including fishing and working on cars.  He attended church occasionally.  The Veteran was again enrolled in college courses and worked part-time performing vehicle maintenance.  He reported experiencing weekly nightmares and intrusive thoughts, as well as avoidance behaviors, feelings of detachment, restricted affect, weekly sleep impairment, concentration difficulties, depressed mood, anxiety, difficulty establishing and maintaining effective work and social relationships, impaired impulse control, and an exaggerated startle response.  
+
+The Veteran was noted to be cooperative with a euthymic mood, as well as normal orientation, reasoning, and speech.  He did not display objective evidence of hallucinations, delusions, obsessive or ritualistic behavior, panic attacks, or suicidal or homicidal intent.  However, he did display mild memory and concentration impairment.  The Veteran was able to complete activities of daily living and maintain his personal hygiene.  He was capable of managing his own finances.  The examiner noted that he described alternating periods of mild depression and mild irritability, which had improved and were attributed to his mood disorder.  The examiner determined that he displayed occupational and social impairment with reduced reliability and productivity due to his psychological diagnoses as a whole.  However, the examiner further noted that the PTSD diagnosis alone resulted in occupational and social impairment due to mild or transient symptoms which decreased work efficiency and the ability to perform occupational tasks only during periods of significant stress.
+
+Most recently, in July 2016, the Veteran underwent another VA examination to evaluate the severity of his PTSD.  He stated that he did not engage in many social activities, but would socialize with friends on the weekend.  He also enjoyed hobbies including training his dog and riding horses.  He was enrolled in college courses online and had been employed at a golf course for the past two years.  He reported symptoms including hypervigilance, exaggerated startle response, impaired impulse control in the form of irritable behavior and angry outbursts, reckless or self-destructive behavior, concentration and memory difficulties, depressed mood, anxiety, suspiciousness, sleep impairment, occasional nightmares, isolated panic attacks, intrusive thoughts, feelings of detachment, a persistent negative emotional state and persistent inability to express positive emotions, markedly diminished interest in activities, and avoidance behaviors.  He also reported difficulty in establishing and maintaining effective work and social relationships.  The examiner further noted intense or prolonged psychological distress, as well as marked physiological reactions due to exposure to cues symbolizing the traumatic event.  The Veteran demonstrated persistent negative beliefs about himself, persistent distorted cognitions about the traumatic event, and an inability to remember important aspects of the traumatic event.
+
+The Veteran was described as well groomed, cooperative, and alert, with normal orientation, speech, and thought processes.  No psychotic processes or psychomotor agitation was observed.  His affect and mood were appropriate, and he demonstrated intact judgment and insight.  He denied homicidal and suicidal ideation.  The Veteran was noted to be capable of managing his finances.  The examiner determined that he displayed occupational and social impairment with reduced reliability and productivity.
+
+Based on the foregoing, the Board finds that the preponderance of the evidence does not support an increased rating in excess of 50 percent for PTSD.
+
+Although there was a slight increase in symptoms, the evidence shows the increase was related to his other psychological disorders, including his non service-connected mood disorder.  Moreover, there is no lay or medical evidence demonstrating additional symptoms such as obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances; or an inability to establish and maintain effective relationships.  
+
+The Board notes that the July 2016 examination identified isolated panic attacks, but there is no indication that such attacks occurred on a near-continuous basis.  Additionally, the VA psychological examination reports of record have noted impaired impulse control and irritability.  However, no specific incidents demonstrating instances of unprovoked irritability with periods of violence have been reported in either the VA treatment records or the VA examination reports.  In fact, a December 7, 2012, VA treatment noted that the Veteran did not have a history of violence.  This indicates that these symptoms are not of the severity or degree that would warrant a 70 percent (or higher) disability rating.  Furthermore, the Board acknowledges that post-service treatment records indicate two instances of reported suicidal thoughts for a brief period of time in January 2013.  However, the remainder of the record is silent regarding suicidal or homicidal ideation, and the Veteran consistently denied such thoughts in the months and years following January 2013.  Thus, the Board finds that this isolated incident is not reflective of the Veteran's disability picture as a whole throughout the entire appeal period.
+
+Additionally, the evidence does not show the Veteran has occupational and social impairment in all or even most areas, as he has reported maintaining positive relationships with his family members and regularly interacting with friends.  He also reported that he occasionally attended church and enjoyed several hobbies.  Regarding any occupational impairment, the Veteran has consistently demonstrated employment throughout the appeal period, including as a firefighter, mechanic, and groundskeeper for a golf course.  The Board notes that he experienced a lapse in employment after an arrest in late 2012; however, the record clearly demonstrates that he has maintained steady employment since that time.  Additionally, the Veteran has consistently been enrolled in college courses throughout the appeal period.  Again, although he was unable to complete the semester after his 2012 arrest, he has since reported continuing his studies.  Thus, the evidence of record does not demonstrate occupational and social impairment in all or most areas.
+
+Additionally, at no point throughout the period on appeal, have the Veteran's symptoms of PTSD manifested to such a degree that more nearly approximates the criteria for a 100 percent disability rating.  For example, there is no evidence showing that the Veteran's PTSD was manifested by such symptoms as gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; disorientation to time or place; memory loss for names of close relatives, own occupation, or own name.  VA examinations consistently noted good judgment and insight; normal speech, logical thought processes; and cooperative behavior.  Despite the Veteran's mild memory loss, there is no indication that such caused him to forget the names of his close relatives, his own occupation, or his own name.  Therefore, a 100 percent disability rating is not warranted at any point during the appeal period.
+
+The Board acknowledges that the Veteran, in advancing this appeal, believes that his PTSD is more severe than the assigned disability rating reflects.  In this regard, he is competent to report observable symptoms.  Layno v. Brown, 6 Vet. App. 465 (1994).  In this case, however, the competent medical evidence offering detailed specific specialized determinations pertinent to the rating criteria is the most probative evidence with regard to evaluating the pertinent symptoms for the disability on appeal; the medical evidence also largely contemplates the Veteran's description of symptoms.  The lay evidence has been considered together with the probative medical evidence clinically evaluating the severity of the pertinent disability symptoms.
+
+In evaluating the Veteran's increased rating claim, the Board is aware that the symptoms listed under the 50 and 70 percent ratings are essentially examples of the type and degree of symptoms for that rating, and that the Veteran need not demonstrate those exact symptoms to warrant a higher rating.  See Mauerhan, supra.  However, the Board finds that the record does not show the Veteran manifested symptoms that equal or more nearly approximate the criteria for a 70 percent (or higher) rating at any point during the appeal period. 
+
+In summary, although the Veteran has other symptoms i.e. suicidal ideation and impaired impulse control, the Board finds that the Veteran's service-connected PTSD more nearly approximated the level of disability contemplated by the 50 percent rating.  The Board finds that the Veteran's deficiencies must be due to symptoms listed for that rating level, or others of similar severity, frequency and duration.  Vasquez-Claudio, supra.  Here, the symptoms noted during the VA examinations during the appeal period are of similar severity, frequency, and duration of those noted under the criteria for a 50 percent rating.  Thus, a rating in excess of 50 percent for the service-connected PTSD is denied.
+
+IV. Entitlement to TDIU
+
+A total disability rating for compensation purposes may be assigned where the schedular rating is less than total and where it is found that the disabled person is unable to secure or follow a substantially gainful occupation as a result of a service-connected disability ratable at 60 percent or more or as a result of two or more disabilities, provided at least one disability is ratable at 40 percent or more, and there is sufficient additional service-connected disability to bring the combined rating to 70 percent or more.  38 C.F.R. § 4.16(a).  Consideration may be given to the Veteran's level of education, special training, and previous work experience in arriving at a conclusion, but not to his or her age or to the impairment caused by nonservice-connected disabilities.  See 38 C.F.R. §§ 4.16, 4.19; see also Van Hoose v. Brown, 4 Vet. App. 361 (1993).
+
+To meet the requirement of "one 60 percent disability" or "one 40 percent disability," the following will be considered as one disability: (1) disability of one or both lower extremities, including the bilateral factor, if applicable; (2) disabilities resulting from one common etiology; (3) disabilities affecting a single body system; (4) multiple injuries incurred in action; and (5) multiple disabilities incurred as a prisoner of war.  Id.  Substantially gainful employment is defined as work which is more than marginal and which permits the individual to earn a living wage.  Moore v. Derwinski, 1 Vet. App. 356 (1991).  Marginal employment may also be held to exist, on a facts-found basis (including, but not limited to, employment in a protected environment such as a family business or sheltered workshop), when earned annual income exceeds the poverty threshold.  38 C.F.R. § 4.16.
+
+Initially, the Board notes that the Veteran's service-connected disabilities include: PTSD, with alcohol abuse disorder, rated at 50 percent disabling; left and right knee disabilities each rated at 10 percent disabling; mild chronic lumbar strain rated at 10 percent disabling; and tinnitus rated at 10 percent disabling, resulting in a combined rating of 70 percent, with one disability rated at 40 percent or more.  Therefore, the Veteran meets the schedular requirements for TDIU.
+
+With the threshold requirements satisfied, the Board must examine whether the Veteran is unable to secure or follow a substantially gainful occupation as a result of his service-connected disabilities.
+
+In this case, the Board finds that consideration of a total rating based on unemployability is not warranted. As discussed more fully below, the most probative and credible evidence shows that the Veteran's service-connected disabilities have not rendered him unable to obtain or maintain substantially gainful employment.
+
+In his February 2017 Application for Increased Compensation Based on Unemployability, he mentioned PTSD as the main service-connected disability preventing him from securing or following any substantially gainful occupation.  However, he reported that he was currently employed on a full-time basis, and earned $30,000 in 2016 while employed as a groundskeeper for a golf course.
+
+VA psychological examination reports indicate that the Veteran has generally maintained consistent employment since his separation from service.  As noted above, he reported employment as a firefighter, a mechanic, and a groundskeeper for a golf course between August 2012 and July 2016.  The Board acknowledges that the Veteran experienced a temporary lapse in employment after his arrest in 2012.  However, the record indicates that he has obtained full-time employment since that time.  Additionally, the opinions provided in these reports found that the Veteran did not demonstrate total occupational impairment, or occupational impairment with deficiencies in the area of work.  Furthermore, he did not report a complete inability to establish and maintain effective relationships, such as in the workplace.   
+
+The Board notes that an August 2012 VA examination report contained the examiner's opinion that the Veteran's back and knee disabilities could potentially limit his ability to stand for prolonged periods of time, lift heavy objects, and squat.  The examiner further noted that the Veteran was currently employed as a firefighter at that time.  However, he did not report experiencing limitations or periods of absence as a result of his disabilities, despite the strenuous nature of the position. 
+
+In this case, the weight of the evidence is simply against the conclusion that the Veteran's service-connected disabilities have rendered him incapable of working with consideration of his employment history and the medical evidence of record.  Indeed, he has maintained consistent employment and is currently employed on a full-time basis as a groundskeeper at a golf course.  Additionally, the medical opinion evidence of record does not indicate that any of his disabilities impact his ability to obtain or maintain substantially gainful employment.  The Board finds that the preponderance of the evidence is against the claim for TDIU; therefore, entitlement to TDIU must be denied.  38 U.S.C. § 5107; 38 C.F.R. §§ 4.3, 4.7.
+
+Neither the Veteran nor his representative has raised any other issues, nor have any other issues been reasonably raised by the record.  See Doucette v. Shulkin, 28 Vet. App. 366 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.
+
+Entitlement to service connection for a sleep disorder, to include as secondary to service-connected PTSD, is granted.
+
+Entitlement to an initial evaluation in excess of 50 percent for PTSD is denied.
+
+Entitlement to a TDIU is denied.
+
+
+
+____________________________________________
+H.M. WALKER
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

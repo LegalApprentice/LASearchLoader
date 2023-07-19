@@ -1,0 +1,100 @@
+Citation Nr: 1815439	
+Decision Date: 03/14/18    Archive Date: 03/23/18
+
+DOCKET NO.  14-09 087	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Detroit, Michigan
+
+
+THE ISSUE
+
+Entitlement to service connection for post-traumatic stress disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	The American Legion
+
+
+ATTORNEY FOR THE BOARD
+
+A. Norwood, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty from June 1969 to June 1972. This matter is before the Board of Veterans' Appeals (Board) on appeal from a January 2012 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Detroit, Michigan. 
+
+In April 2017, the Veteran testified via videoconference before the undersigned Veterans Law Judge (VLJ). A transcript of the hearing is of record.
+
+
+FINDINGS OF FACT
+
+1. The Veteran has PTSD due to a verified in-service stressor.
+
+2.  The Veteran's PTSD is etiologically related to service. 
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for PTSD have been met. 38 U.S.C. § 1101, 1110 (2012); 38 C.F.R. §§ 3.303, 3.304 (2017).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+I. The Veterans Claims Assistance Act of 2000 
+
+With respect to the Veteran's claim herein, VA has met all statutory and regulatory notice and duty to assist provisions. See 38 U.S.C. §§ 5100, 5102, 5103, 5103A, 5106, 5107, 5126; 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326; see also Scott v. McDonald, 789 F.3d 1375 (Fed. Cir. 2015).
+
+II. Acquired Psychiatric Disorder
+
+The Veteran contends that service connection is warranted for PTSD, based on several non-combat-related stressors: the Veteran's presence during riots in Okinawa, Japan; a "race riot" in Portsmouth, Virginia; and, a typhoon while being transported in Southeast Asia. 
+
+Service connection for PTSD requires (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (Diagnostic and Statistical Manual of Mental Disorders, (4th ed.) (2015) (DSM-IV)); (2) a link, established by medical evidence, between current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred. 38 C.F.R. § 3.304(f). Diagnoses of PTSD are presumed to have been made in accordance with the DSM-IV criteria. Cohen v. Brown, 10 Vet. App. 128, 139-42 (1997).
+
+(The DSM-IV has been updated with a Fifth Edition (DSM-V), and VA has amended § 4.125(a) to reflect this update. However, the amendment only applies to applications that are received by VA or are pending before the agency of original jurisdiction on or after August 4, 2014, and does not apply to appeals already certified to the Board or pending before the Board. 79 Fed. Reg. 45093.)
+
+In adjudicating a claim for service connection for PTSD, the Board is required to evaluate evidence based on places, types, and circumstances of service, as shown by the Veteran's military records and all pertinent medical and lay evidence. Hayes v. Brown, 5 Vet. App. 60, 66 (1993); see also 38 U.S.C. § 1154(a); 38 C.F.R. 
+§ 3.304(f). The evidence necessary to establish the occurrence of an in-service stressor for PTSD will vary depending on whether or not the Veteran "engaged in combat with the enemy." Id.  
+
+If VA determines that the Veteran did not engage in combat with the enemy or that the alleged stressor is not related to combat, the Veteran's lay testimony by itself is not sufficient to establish the occurrence of the alleged stressor. Instead, the record must contain service records or other evidence to corroborate the Veteran's testimony or statements. See Moreau v. Brown, 9 Vet. App. 389, 394 (1996). 
+
+The question of whether a Veteran was exposed to a stressor in service is a factual one, and VA adjudicators are not bound to accept uncorroborated accounts of stressors or medical opinions based upon such accounts. Wood v. Derwinski, 1 Vet. App. 190 (1991), aff'd on reconsideration, 1 Vet. App. 406 (1991). Hence, whether a stressor was of sufficient gravity to cause or support a diagnosis of PTSD is a question of fact for medical professionals and whether the evidence establishes the occurrence of stressors is a question of fact for adjudicators. 
+
+If a stressor claimed by a Veteran is related to the Veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of PTSD and that the Veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor. 
+
+For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a Veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the Veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror. 38 C.F.R. § 3.304(f)(3).
+
+The evidence of record establishes that the Veteran has current diagnoses that meet DSM-IV criteria for chronic PTSD. See April 2011 VA Examination.
+
+The Board also notes that the Veteran was diagnosed with Adjustment Disorder with Anxiety in June 2009, as well as recurrent Major Depressive Disorder and PTSD in April 2017.
+
+Turning to whether there is a link, established by medical evidence, between current symptoms and an in-service stressor, an April 2011 VA examiner indicated that only the typhoon incident met DSM-IV criteria for a traumatic stressor. The examiner opined that it was at least as likely as not that the Veteran's PTSD was caused by or a result of the Veteran's military service (i.e., the typhoon he experienced). However, the examiner also opined that the Veteran's claimed stressor was not related to his fear of hostile military or terrorist activity.
+
+Nevertheless, the Board finds that the claimed stressor, i.e., the typhoon incident, is consistent with the circumstances, conditions, or hardships of the Veteran's service. 
+
+The Board notes that the Veteran submitted evidence purporting to document that he encountered a typhoon during service. The Veteran submitted the Dictionary of American Naval Fighting Ships from the Department of Navy, Naval Historical Center, which records the chronology and significant events of the USS Duluth (LPD-6). The Veteran's military personnel records indicate that he embarked on the Duluth in May 1970. According to the dictionary, the Duluth encountered one typhoon, Typhoon Jane, in October 1970. 
+
+The Veteran's military personnel records indicate that he departed onboard the Duluth at White Beach in Okinawa in June 1970 and disembarked the ship at U.S. Naval Base Subic Bay on June 1970. Although these records do not confirm that he encountered Typhoon Jane in October 1970, they do indicate that he remained in Okinawa. For example, in January 1971 the Veteran disembarked the USS Tom Green County at Kin Red Beach, Okinawa (LST 1159). In addition, as a Marine in the Reconnaissance Battalion, it is consistent with the circumstances of his service that he was onboard ships at rates that were not documented by his service records. 
+
+Based on a review of the evidence, the Board concludes that service connection for PTSD is warranted. The April 2011 examiner opined that it was at least as likely as not that PTSD was caused by or a result of the typhoon incident. The Board concedes an in-service stressor of a fear of hostile military activity, as such is consistent with the Veteran's military service. When affording the Veteran the benefit-of-the-doubt, the Board finds that the evidence supports a finding that the Veteran's PTSD is related to his military service. Thus, service connection for PTSD is granted.
+
+
+ORDER
+
+Entitlement to service connection for PTSD is granted.
+
+
+
+____________________________________________
+M.H. HAWLEY
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

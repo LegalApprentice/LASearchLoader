@@ -1,0 +1,137 @@
+Citation Nr: 1801071	
+Decision Date: 01/09/18    Archive Date: 01/19/18
+
+DOCKET NO.  13-34 082A	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in St. Petersburg, Florida
+
+
+THE ISSUES
+
+1.  Whether new and material evidence has been received to reopen a claim for entitlement to service connection for a back disability.
+
+2.  Entitlement to service connection for a back condition.
+
+3.  Entitlement to service connection for an acquired psychiatric disorder, to include post-traumatic stress disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	Ralph Bratch, Attorney
+
+
+ATTORNEY FOR THE BOARD
+
+A. Smith, Associate Counsel
+
+INTRODUCTION
+
+The Veteran served on active duty in the U.S. Air Force from August 1976 to August 1980.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an August 2011 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) in St. Petersburg, Florida.  
+
+The Veteran requested a hearing before a travel board.  In a May 2017 statement from his representative, the Veteran canceled his request for a hearing.  There are no additional requests for a hearing of record.  As such, the Board considers the Veteran's request for a hearing satisfied.  See 38 C.F.R. §§ 20.702(e), 20.704(e) (2017).  
+
+As will be discussed, the record does not reflect a diagnosis for PTSD.  However, the Board has considered whether the record suggests other psychiatric conditions as well pursuant to Clemons v. Shinseki, 23 Vet. App. 1, 4-6 (2009).  As such, the Board has recharacterized the issue for PTSD as reflected on the title page.  
+
+The issue of service connection for a back disability is addressed in the REMAND portion of the decision below and is REMANDED to the Agency of Original Jurisdiction (AOJ).
+
+
+FINDINGS OF FACT
+
+1.  In an April 2009 decision, the Board determined that new and material evidence had not been received sufficient to reopen a claim for service connection for a back condition.
+
+2.  The evidence associated with the claims file subsequent to the April 2009 Board decision relates to an unestablished fact necessary to substantiate the claim for service connection for a back condition, is not cumulative or redundant of the evidence previously of record, and is sufficient to raise a reasonable possibility of substantiating the claim.
+
+3.  The record does not reflect a current diagnosis or persistent or recurrent symptomatology for PTSD or another psychiatric disorder.  
+
+
+CONCLUSIONS OF LAW
+
+1.  New and material evidence has been received to reopen a claim of entitlement to service connection for a back condition.  38 U.S.C. § 5108 (West 2012); 38 C.F.R. § 3.156 (2017).
+
+2.  The criteria for service connection for an acquired psychiatric disorder, to include PTSD have not been met.  38 U.S.C. §§ 1110, 5107 (West 2012); 38 C.F.R. § 3.303(a) (2017).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+Duties to Assist and Notify
+
+VA has a duty to notify and assist claimants in substantiating claims for VA benefits.  See e.g. 38 U.S.C.A. §§ 5103, 5103A and 38 C.F.R. § 3.159.  For the issues decided herein, VA provided adequate notice in a letter sent to the Veteran in February 2011.  
+
+With regard to the duty to assist, VA has obtained all identified and available service and post-service treatment records.  The Board acknowledges the representative's statement that VA did not fulfill its duty to assist by failing to provide the Veteran a VA examination regarding his PTSD claim.  However, an examination is not warranted as the record does not reflect persistent or recurrent symptoms or a current diagnosis of PTSD or another psychiatric condition.  See McClendon v. Nicholson, 20 Vet. App. 79 (2006); 38 C.F.R. § 3.159(c)(4).  Accordingly, the Board finds VA has satisfied its duty to assist the Veteran in the development of the claim.  
+
+As VA satisfied its duties to notify and assist the Veteran, the Board finds that there is no further action to be undertaken to comply with the provisions of 38 U.S.C. § 5103(a), § 5103A, or 38 C.F.R. § 3.159 and that the Veteran will not be prejudiced as a result of the Board's adjudication of this claim.
+
+New and Material Evidence
+
+Generally, a claim that has been denied in a final unappealed rating decision may not thereafter be reopened and allowed.  38 U.S.C. §§ 7104, 7105.  Similarly, a decision by the Board is final unless the Chairman of the Board orders reconsideration of the decision.  See 38 U.S.C. § 7103(a); 38 C.F.R. § 20.1100(a).
+
+An exception to this rule is 38 U.S.C. § 5108, which provides that if new and material evidence is presented or secured with respect to a claim which has been disallowed, VA will reopen the claim and review it on the merits.  
+
+New evidence is defined as existing evidence not previously submitted to agency decision makers.  Material evidence means evidence that, by itself or when considered with previous evidence of record, relates to an unestablished fact necessary to substantiate the claim.  New and material evidence can be neither cumulative nor redundant of the evidence previously of record, and must raise a reasonable possibility of substantiating the claim.  38 C.F.R. § 3.156(a).
+
+In determining whether evidence is new and material, the credibility of the evidence is generally presumed.  Justus v. Principi, 3 Vet. App. 510, 512-513 (1992).  The United States Court of Appeals for the Federal Circuit has held, however, that evidence that is merely cumulative of other evidence in the record cannot be new and material even if that evidence had not been previously presented to the Board.  Anglin v. West, 203 F.3d 1343 (2000).
+
+Entitlement to service connection requires: (1) evidence of a current disability; (2) evidence of in-service incurrence or aggravation of a disease or injury; and (3) evidence of a nexus between the in-service disease or injury and the current disability.  38 C.F.R. § 3.303(a); Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Analysis
+
+In an April 2009 Board decision, the Board denied reopening the Veteran's claim for service connection for a back condition because the medical reports submitted, while new, did not speak to a nexus and in-service illness or injury regarding the Veteran's back.  
+
+In January 2011, the Veteran filed a claim to reopen for service connection for a back condition.  Service treatment records (STRs) uploaded to VBMS in June 2014 include a September 1978 report indicating complaints of back pain.  While prior rating decisions indicate that the Veteran's STRs from 1976 to 1980 were reviewed, previous rating decisions do not mention the September 1978 in-service report of back pain.  The Board's review of the STRs available at the time of the previous denial revealed that those STRs do not reflect the September 1978 report of back pain.  As such, the Board determines that the evidence is new.  Nor is the evidence cumulative or redundant of any evidence already of record.  Additionally, as the STRs speak to an in-service incurrence, the Board finds that the new evidence raises a reasonable possibility of substantiating the Veteran's claim of entitlement to service connection for a back condition.  
+
+Hence, the low threshold for meeting the criteria for reopening has been met.  Shade v. Shinseki, 24 Vet. App. 110, 117-118 (2010).  Accordingly, the claim of entitlement to service connection for a back condition is reopened.  38 C.F.R. § 3.156(a).
+
+Service Connection
+
+The Veteran contends that he has PTSD as a result of his active service.  
+
+There are particular requirements for establishing service connection for PTSD.  38 C.F.R. § 3.304(f); Arzio v. Shinseki, 602 F.3d 1343, 1347 (Fed. Cir. 2010).  Service connection for PTSD requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125; (2) credible supporting evidence of an in-service stressor; and (3) a link, established by medical evidence, between current symptoms and an in-service stressor.  38 C.F.R. § 3.304(f).
+
+In the instant case, the record does not reflect a diagnosis for PTSD.  38 C.F.R. § 4.125(a) requires that a diagnosis of PTSD be in accordance with either the 4th or 5th edition of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM-IV, DSM-5).  Which DSM is applicable is based on when the appeal was certified to the Board.  However, the record in this case does not reflect any PTSD diagnosis per either DSM.  The only medical evidence of record relating to PTSD is an October 2004 PTSD screening from Miami VA Medical Center (VAMC), and the screening was negative for PTSD.  As the record does not reflect a current diagnosis for PTSD in accordance with 38 C.F.R. § 4.125, the cornerstone element of service connection has not been met, and service connection is not warranted.  See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992) (a current diagnosis is a cornerstone of service connection).  
+
+The Board acknowledges that the Court has held that when a veteran claims service connection, he or she is not claiming service connection for a specific diagnosis but for his or her symptoms regardless of the diagnosis, and the claim encompasses the underlying condition regardless of diagnosis.  Clemons v. Shinseki, 23 Vet. App. 1, 4-6 (2009).  As such, as mentioned in the Introduction, the Board has considered whether the record suggests psychiatric conditions other than PTSD.  However in this case, the record does not reflect any psychiatric disorder diagnoses or persistent or recurrent symptomatology of a psychiatric condition.  A January 2011 depression screening from Miami VAMC was negative and indicates that the Veteran does not meet the referral criteria for depression or anxiety.  As such, the Board finds that the record does not suggest other psychiatric conditions.  
+
+In light of the evidence, the Board finds that the preponderance of the evidence does not support service connection for PTSD or another psychiatric condition.  Accordingly, service connection for an acquired psychiatric condition, to include PTSD is denied. 
+
+
+ORDER
+
+As new and material evidence has been received, the claim for service connection for a back condition is reopened.  
+
+Entitlement to service connection for an acquired psychiatric condition, to include PTSD is denied.  
+
+
+REMAND
+
+The record reflects a current back condition and suggests an in-service incurrence but is insufficient to decide the claim as there is no nexus opinion of record.  As such, the Board finds that the duty to assist has been triggered and a VA examination regarding the Veteran's current back condition is necessary.  See McLendon v. Nicholson, 20 Vet. App. at 81; 38 U.S.C. § 5103A(d)(2); 38 C.F.R. § 3.159(c)(4)(i).  As such, the issue is remanded for a VA examination and opinion.  
+
+Accordingly, the case is REMANDED for the following action:
+
+1. Schedule the Veteran for a VA examination with an appropriate examiner to assess the nature and etiology of the Veteran's current back condition.  
+
+The claims file and a copy of this remand must be made available to the reviewing examiner, and the examiner should indicate in the report that the claims file was reviewed.
+
+Any opinion provided must be accompanied by a rationale and must take the Veteran's lay statements into consideration.  The examiner is advised that the Veteran is competent to attest to observable symptoms, such as pain.  If there is a medical basis to support or doubt the Veteran's reports of symptomatology, the examiner should provide a fully reasoned explanation.
+
+The examiner is asked to provide an opinion as to whether it is at least as likely as not (a 50 percent or greater probability) that the Veteran's back condition was caused by or is otherwise related to the Veteran's active service.
+
+2. After completing the above actions, readjudicate the claim on appeal.  If the benefits sought on appeal remain denied, the Veteran should be furnished an appropriate supplemental statement of the case and provided an opportunity to respond.  
+
+The appellant has the right to submit additional evidence and argument on the matter the Board has remanded.  Kutscherousky v. West, 12 Vet. App. 369 (1999).
+This claim must be afforded expeditious treatment.  The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.  See 38 U.S.C.A. §§ 5109B, 7112 (West 2012).
+
+
+
+
+____________________________________________
+GAYLE E. STROMMEN
+Veterans Law Judge, Board of Veterans' Appeals
+
+Department of Veterans Affairs
+
+

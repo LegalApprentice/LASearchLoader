@@ -1,0 +1,148 @@
+Citation Nr: 1815167	
+Decision Date: 03/12/18    Archive Date: 03/19/18
+
+DOCKET NO.  10-11 325	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Boise, Idaho
+
+
+THE ISSUES
+
+1.  Entitlement to an initial disability rating in excess of 50 percent for posttraumatic stress disorder (PTSD).
+
+2.  Entitlement to a total disability rating based on individual unemployability (TDIU).
+
+
+REPRESENTATION
+
+Veteran represented by:	Disabled American Veterans
+
+
+ATTORNEY FOR THE BOARD
+
+R. Kettler, Associate Counsel
+
+
+
+INTRODUCTION
+
+The Veteran served on active duty from May 1968 to September 1969.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from an August 2009 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Boise, Idaho.
+
+In March 2009, the RO granted service connection for PTSD, evaluated as 30 percent disabling effective January 28, 2009.  In December 2017, the RO increased the rating from 30 percent to 50 percent effective from January 28, 2009.  However, since this increase did not constitute a full grant of the benefit sought, the higher initial evaluation issue remains in appellate status.  AB v. Brown, 6 Vet. App. 35, 39 (1993).
+
+This matter was previously remanded by the Board in April 2016.  The record reflects substantial compliance with the remand directives.  Stegall v. West, 11 Vet. App. 268, 271 (1998).
+
+
+FINDINGS OF FACT
+
+1.  The Veteran's PTSD was manifested by symptoms productive of functional impairment comparable to occupational and social impairment with reduced reliability and productivity.
+
+2.  The preponderance of the evidence fails to show unemployability based on the Veteran's service-connected disabilities.
+
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for a disability rating in excess of 50 for PTSD have not been met.  38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. § 4.130, DC 9411 (2017).
+
+2.  The criteria for entitlement to TDIU have not been met.  38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 3.340, 3.341, 4.16(a) (2017).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+I.  Increased Rating for PTSD
+
+Disability evaluations (ratings) are determined by evaluating the extent to which a veteran's service-connected disability adversely affects his ability to function under the ordinary conditions of daily life, including employment, by comparing the symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule).  38 U.S.C. §§ 1155; 38 C.F.R. §§ 4.1, 4.2, 4.10.
+
+In evaluating a disability, the Board considers the current examination reports in light of the whole recorded history to ensure that the current rating accurately reflects the severity of the condition.  The Board has a duty to acknowledge and consider all regulations that are potentially applicable.  Schafrath v. Derwinski, 
+1 Vet. App. 589 (1991).  The medical as well as industrial history is to be considered, and a full description of the effects of the disability upon ordinary activity is also required.  38 C.F.R. §§ 4.1, 4.2, 4.10.
+
+Service connection is in effect for PTSD at a 50 percent disability rating effective from December 2017.  The Veteran claims that his service-connected PTSD is more severe than his current evaluation.
+
+Evaluations for psychiatric disabilities are assigned pursuant to 38 C.F.R. § 4.130.  Under the general rating formula for mental disorders,  a 50 percent rating is warranted for PTSD where there is occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory such as, retention of only highly learned material, forgetting to complete tasks; impaired judgment; impaired abstract thinking; disturbances of motivation and mood; difficulty in establishing and maintaining effective work and social relationships.  38 C.F.R. § 4.130, DC 9411.
+
+A 70 percent rating for PTSD contemplates occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); inability to establish and maintain effective relationships.  Id.  
+
+Finally, a 100 percent disability rating is warranted for PTSD resulting in total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation, or own name.  Id.
+
+In evaluating the evidence, the Board has considered the various Global Assessment of Functioning (GAF) scores that clinicians have assigned.  The GAF is a scale reflecting the psychological, social, and occupational functioning on a hypothetical continuum of mental health illness.  See Diagnostic and Statistical Manual of Mental Disorders (4th ed.) (DSM-IV); Carpenter v. Brown, 8 Vet. App. 240 (1995).  A GAF score in the range of 51-60 indicates "Moderate symptoms (e.g., flat affect and circumstantial speech, occasional panic attacks) OR moderate difficulty in social, occupational, or school functioning (e.g., few friends, conflicts with peers or co-workers)."  
+
+Turning to the merits of the claim, in a February 2009 Pocatello CBOC treatment record, the Veteran reported stress starting to wear on him.  On mental status examination, speech was a normal rate and tone.  He denied suicidal or homicidal ideations or plans.  Cognition was intact retention and focus.  He was assigned a GAF of 50.
+
+In April 2009, the Veteran was afforded a VA examination.  Following an examination and review of the claims file, the examiner noted the Veteran continues to have disturbing memories and thoughts of events that occurred in Vietnam.  Following a mental status examination, the Veteran's mood was moderately anxious and depressed.  His form of thought was linear and goal directed.  No inappropriate behavior was noted.  The examiner noted that the best description of the Veteran's current psychiatric impairment is that his symptoms are best described as an occasional and social impairment with occasional reduction in work efficiency and intermittent period of inability to perform occasional tasks.
+
+In the March 2010 VA Form 9, the Veteran stated that he does not socialize with friends and does not have any one who comes over.  He noted that he has been unable to maintain a relationship with a woman for more than nine months since service.  
+
+The Veteran was afforded another VA mental health examination in April 2011.  The Veteran endorsed difficulty motivating himself, unable to be around others/crowds, and nightmares.  The examiner noted the Veteran's mood was normal but appeared anxious.  The Veteran did not exhibit psychosis, and denied auditory and visual hallucinations.  He was clean and well groomed.  Symptoms include recurrent dreams, anxiety, panic attacks, restless sleep, and hyperarousal.  Following examination, the examiner found that the best description of the Veteran's current psychiatric impairment is that his symptoms cause occupational and social impairment with deficiencies in most of the following areas: work, school, family relations, judgment, thinking, and mood and other symptoms.  The report noted there is reduced reliability and productivity due to PTSD signs and symptoms such as difficulty in understanding complex commands, disturbances of motivation and mood, impaired judgment, and difficulty establishing and maintaining relationships.  
+
+In an August 2011 treatment note, the Veteran reported staying as busy as possible and living a valued and meaningful life.  He reported seeing a therapist is helpful.
+
+In a December 2011 addendum opinion, three board physicians disagreed with the conclusion of the April 2011 examiner.  Following review of the claims file, the physicians noted the evidence shows an overall improvement in psychosocial functioning, with a reduction in mental health symptoms.  The physicians opined that the Veteran's current psychiatric impairment is best described as an occasional decrease in work efficiency or intermittent periods of inability to perform occupational tasks due to signs and symptoms of PTSD.  A GAF of 60 was assigned.
+
+A June 2015 Salt Lake City VAMC treatment record notes the Veteran's PTSD is stable on medications.
+
+In November 2017, the most recent VA mental health examination of the Veteran was conducted.  The Veteran reported feeling satisfied with his social life.  He regularly has others visit him and rarely feels lonely.  He noted some difficulty with authority, but reported that overall he gets along fairly well with others.  He described an active social life prior to and during his military service.  He has had panic attacks, but noted that these are rare and only occur at night after having a nightmare.  The examiner noted the Veteran's hygiene and grooming were adequate.  Affect was flat but mood was euthymic.  Symptoms attributable to the Veteran's PTSD included anxiety, depressed mood, suspiciousness, panic attacks, difficulty in understanding complex commands, difficulty in establishing and maintaining effective work and social relationships, and difficulty adapting to stressful circumstances, including work or a work like setting.  The examiner indicated that his level of functioning was occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks, although generally functioning satisfactorily, with normal routine behavior, self-care and conversation.
+
+The preponderance of the evidence is against the assignment of a disability rating in excess of 50 percent for the service-connected PTSD for any period of time covered by the appeal.  Throughout the period of this claim, manifestations of the Veteran's posttraumatic stress disorder (PTSD) include sleep disturbance, nightmares, anxiety, depressed mood, suspiciousness, and panic attacks.  Furthermore, while the Veteran reported disliking crowds, he maintained good relationships with friends.  He was consistently well groomed and hygienic; his thought process was intact; there was no evidence of paranoia, delusions, or hallucination; and he denied suicidal and homicidal ideation.  Furthermore, the Veteran's assigned GAF scores during the period were between 50 and 60, which is indicative of (very generally) moderate symptoms.  Moreover, the above-described evidence, notably the November 2017 VA examination, does not document that the Veteran's PTSD symptoms result in occupational and social impairment, with deficiencies in most areas.  
+
+The Board has also fully considered the lay statements of record, which are competent insofar as they relate to observable symptoms.  See Layno v. Brown, 6 Vet. App. 465, 469 (1994).  Notably, however, the lay evidence of record is not competent to provide an expert opinion as to the Veteran's level of functional impairment as a result of his observable PTSD symptoms.  See Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).  Therefore, it is afforded less probative value than the objective psychiatric medical evidence of record.
+
+In this regard, it is important for the Veteran to understand that this finding does not suggest he does not have problems with PTSD.  A fifty percent evaluation is a significant disability, which will cause him many problems, as he has noted.  Without taking into consideration the problems he has cited there would be no basis for the current finding.  The only question in this case is the degree of disability, not whether the Veteran has PTSD.
+
+Accordingly, the Board finds that a rating in excess of 50 percent is not warranted for any period of time covered by the appeal.  In reaching this decision the Board considered the doctrine of reasonable doubt, however, as the preponderance of the evidence during the appeal period is against the Veteran's claim for a disability rating in excess of 50 percent for his service-connected PTSD, the doctrine is not for application.  Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+Furthermore, neither the Veteran nor his representative has raised any other issues, nor have any other issues been reasonably raised by the record.  See Doucette v. Shulkin, 28 Vet. App. 366 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).  The Board notes the issue of TDIU is discussed below.
+
+II.  TDIU
+
+The Veteran contends that he is unemployable as a result of his service-connected disabilities.  Specifically, the Veteran states that TDIU is due to his service-connected PTSD.  However, the Board will consider all service-connected disabilities with his TDIU claim.
+
+The Board may assign a TDIU in the first instance provided that certain schedular disability ratings requirements, such as a combined disability rating of 70 percent with at least one disability rating as 40 percent rating, are met.  See 38 C.F.R. § 4.16(a); see also Bowling v. Principi, 15 Vet. App. 1, 10 (2001) (holding that the Board may not assign a TDIU in the first instance when the schedular requirements of 38 C.F.R. § 4.16(a) are not met).
+
+The Veteran is presently in receipt of service connection for PTSD, rated as 50 percent disabling, tinnitus, rated as 10 percent disabling, erectile dysfunction, rated as noncompensable, diabetes mellitus, rated as noncompensable, and bilateral hearing loss, rated as noncompensable.  
+
+The Veteran's combined disability rating is 60 percent.  Thus, the preliminary schedular rating requirements for a TDIU are not met.  38 C.F.R. § 4.16(a).  Therefore, any award of TDIU would have to be on an extraschedular basis.  It is the policy of VA that all Veterans who are unable to secure and follow a substantially gainful occupation by reason of service connected disability shall be rated totally disabled.  38 C.F.R. § 4.16(b).
+
+The process for establishing entitlement to an extraschedular TDIU rating is described in 38 C.F.R. § 4.16(b).  That process requires first an adjudicative determination that the Veteran is rendered unemployable by virtue of his service-connected disabilities, and if that determination is affirmative, followed by referral to the Director, Compensation System.
+
+The central inquiry is "whether the Veteran's service-connected disabilities alone are of sufficient severity to produce unemployability."  Hatlestad v. Brown, 5 Vet. App. 524, 529 (1993).  Neither nonservice-connected disabilities nor advancing age may be considered in the determination.  38 C.F.R. §§ 3.341, 4.19; Van Hoose v. Brown, 4 Vet. App. 361, 363 (1993).
+
+The Veteran is currently retired.  The evidence of record indicates that the Veteran completed high school.  The Veteran was last employed as part owner in a family business in April 2008.  
+
+At an April 2009 VA examination, the examiner noted the Veteran functioned quite well in the family business until the death of his brother.  Thereafter, the Veteran began to have trouble focusing on running the business on a day-to-day basis and getting along with the new co-owner.
+
+The April 2011 examiner opined the Veteran would have difficulty maintaining employment due to his limited ability tolerating noise and crowds.
+
+The December 2011 addendum opinion concurred the Veteran avoids crowds; however, the report notes that the Veteran is performing ongoing "handyman" work.
+
+At the November 2017 VA examination, the Veteran denied problems interacting with co-workers or being fired from any jobs.  He reported working with small engine repair on a daily basis and is able to handle all aspects of this, including time demands and frustrating problems, as they arise.  The Veteran indicated that his capacity to deal with challenging events is sufficient.  The examiner noted the Veteran's capacity to work in confined places is likely limited.
+
+While acknowledging that the Veteran has some limitations imposed by his service-connected disabilities, and may have not be able to do the job he had done in the past, repeated VA examinations have indicated that he is not precluded from obtaining or maintaining substantially gainful employment.  The Board has assigned these examination reports great probative values as they were based on an examination of the Veteran and a review of the pertinent evidence of record.  In addition, the examiners addressed the question of employability directly and their opinions are consistent.  
+
+Accordingly, referral for extraschedular consideration of TDIU pursuant to 38 C.F.R. § 4.16(b), is not warranted and the claim for TDIU is denied.
+
+In reaching the above conclusions, the Board has considered the applicability of the benefit of the doubt doctrine.  However, as the preponderance of the evidence is against the Veteran's claim, that doctrine is not applicable in the instant appeal.  See 38 U.S.C. § 5107(b) (West 2002); Ortiz v. Principi, 274 F.3d 1361, 1364 (Fed. Cir. 2001); Gilbert v. Derwinski, 1 Vet. App. 49, 55-56 (1990).
+
+III.  Duty to Notify and Assist
+
+With respect to the Veteran's claim herein, VA has met all statutory and regulatory notice and duty to assist provisions.  See 38 U.S.C. §§ 5100, 5102, 5103, 5103A, 5106, 5107, 5126 (2012); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326 (2017); see also Scott v. McDonald, 789 F.3d 1375 (Fed. Cir. 2015).
+
+
+ORDER
+
+An initial rating higher than 50 percent for PTSD, is denied.
+
+Entitlement to a TDIU is denied.
+
+
+JOHN J. CROWLEY
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+Department of Veterans Affairs
+
+

@@ -1,0 +1,176 @@
+Citation Nr: 1815018	
+Decision Date: 03/09/18    Archive Date: 03/19/18
+
+DOCKET NO.  12-33 524A	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in St. Petersburg, Florida
+
+
+THE ISSUES
+
+1.  Entitlement to service connection for an acquired psychiatric disorder other than posttraumatic stress disorder (PTSD), to include anxiety not otherwise specified (NOS).
+
+2.  Entitlement to service connection for sleep apnea, to include as secondary to service-connected PTSD.
+
+3.  Entitlement to a total disability rating based on individual unemployability (TDIU).
+
+
+REPRESENTATION
+
+Appellant represented by:	Stacey P. Clark, Attorney
+
+
+
+ATTORNEY FOR THE BOARD
+
+S. Owen, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty from December 1966 to December 1969.  
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2012 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in St. Petersburg, Florida, which, in pertinent part, denied service connection for anxiety disorder, NOS (claimed as PTSD, mood swings, and anxiety attacks) and entitlement to a total disability rating.  The Veteran filed a timely notice of disagreement (NOD) in August 2012 for the denial of service connection for a psychiatric disability. 
+
+This matter also comes before the Board on appeal from an August 2014 rating decision of the RO in Huntington, West Virginia, which denied service connection for sleep apnea secondary to PTSD.  Jurisdiction remained with the St. Petersburg, Florida RO.  The Veteran filed a timely NOD in September 2014.  
+
+As to the claim for a TDIU, in a July 2012 letter, the Veteran indicated that he wished to withdraw his pending claim for TDIU.  However, the RO adjudicated the claim in the July 2012 rating decision.  In August 2012, the Veteran filed a NOD with the denial of service connection for a psychiatric disability and the RO construed the NOD as one for TDIU as well.  In September 2012, the RO sent the Veteran a letter in which it acknowledged the Veteran's withdrawal of his NOD for TDIU and that no further action would be taken on the claim.  However, the RO included the issue of entitlement to TDIU in a February 2014 statement of the case and the Veteran filed a VA Form 9 in March 2014.  
+
+In a June 2015 decision, the Board found that given the RO's actions in continuing to adjudicate the TDIU claim after his July 2012 letter, the fact that there was no notice of disagreement at the time of the July 2012 letter, and his actions indicating a desire to continue the appeal once the RO undertook to adjudicate the claim after the July 2012 letter, the TDIU issue remained on appeal.  Therefore, this claim is properly before the Board on appeal. 
+
+In the June 2015 decision, the Board also remanded the case for further development of the record, including obtaining a VA examination and medical opinion.  There has been substantial compliance with the requested development.  Stegall v. West, 11 Vet. App. 268 (1998); see Dyment v. West, 13 Vet. App. 141 (1999).
+
+In an August 2017 rating decision, and during the pendency of the appeal, the RO granted service connection for PTSD.  As a grant of service connection represents a grant of the benefits sought on appeal for this claim, this claim is no longer before the Board.  The Board notes that the Veteran has filed a NOD with the effective date and disability rating assigned for his PTSD.  As the NOD was filed recently, the RO must be given time to respond to the NOD; therefore, the increased rating and earlier effective date claims remain before the RO.
+
+In October 2017 and January 2018, and subsequent to the August 2017 supplemental statement of the case, the Veteran submitted additional evidence in support of his claim for sleep apnea without waiver of initial RO review, and his claim for TDIU with a waiver of initial RO review.  However, as the Board is remanding these claims as discussed below, the RO will have an opportunity to review all the submitted documents.
+
+This appeal was processed using the Virtual VA and Veterans Benefits Management System (VBMS) paperless claims processing system.  Accordingly, any future consideration of this case should take into consideration the existence of this electronic record.
+
+The issues of entitlement to service connection for sleep apnea secondary to service-connected PTSD and entitlement to TDIU are addressed in the REMAND portion of the decision below and are REMANDED to the Agency of Original Jurisdiction (AOJ).
+
+
+FINDING OF FACT
+
+The preponderance of the evidence reflects that the Veteran does not have an acquired psychiatric disorder other than PTSD due to any injury, disease or incident of his active duty service. 
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for an acquired psychiatric disorder other than PTSD have not been met.  38 U.S.C. §§ 1101, 1110, 5103, 5103A, 5107 (2017); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304 (2017).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Duties to Notify and Assist
+
+The Veterans Claims Assistance Act of 2000 (VCAA), in part, describes VA's duties to notify and assist claimants in substantiating a claim for VA benefits. 38 U.S.C. §§ 5100, 5103, 5013A, 5106, 5107, 5126 (2012); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2017).  Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and his or her representative of any information, and any medical or lay evidence, not of record (1) that is necessary to substantiate the claim; (2) that VA will seek to provide; and (3) that the claimant is expected to provide.  38 U.S.C. § 5103(a); 38 C.F.R. § 3.159(b).  VCAA notice should be provided to a claimant before the initial unfavorable agency of original jurisdiction decision on a claim.  Mayfield v. Nicholson, 444 F.3d 1328 (Fed. Cir. 2006).
+
+The Veteran was advised of VA's duties to notify and assist in the development of the claim at issue by notice letter dated in May 2011.  See 38 U.S.C. §§ 5102, 5103, 5103A (2012); 38 C.F.R. § 3.159 (2017); see also Scott v. McDonald, 789 F.3d 1375 (Fed. Cir. 2015).
+
+The VCAA also provides that VA has a duty to assist claimants in obtaining evidence needed to substantiate a claim.  38 U.S.C. § 5103A; 38 C.F.R § 3.159(c).  Here, the Veteran's service records, VA records, and private treatment records identified by the Veteran have been obtained and associated with the claims file.  The Veteran was afforded a VA examination for a mental disorder other than PTSD in June 2010.  The examination is of record.  The Veteran was afforded VA examinations for PTSD in February 2012, April 2016, June 2017 and July 2017.  Those examinations are also of record.  To that end, when VA undertakes to either provide an examination or to obtain an opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  The VA examination reports reflect that relevant records were reviewed and the examiners personally interviewed and examined the Veteran, including eliciting a history from him, and offered opinions.  
+
+The Veteran has been afforded a meaningful opportunity to participate effectively in the processing of the claim, including by submission of statements and arguments.  Based upon the foregoing, the duties to notify and assist the Veteran have been met, and no further action is necessary to assist the Veteran in substantiating this claim.
+
+Service Connection Laws and Regulations
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d). 
+
+Service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disability.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).  The U.S. Court of Appeals for Veterans Claims (Court) has held that "Congress specifically limits entitlement to service-connected disease or injury to cases where such incidents have resulted in a disability.  In the absence of proof of a present disability, there can be no valid claim."  Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992); see also Rabideau v. Derwinski, 2 Vet. App. 141, 143-44 (1992).
+
+In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant.  Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990).  Competency of evidence differs from weight and credibility.  Competency is a legal concept determining whether testimony may be heard and considered by the trier of fact, while credibility is a factual determination going to the probative value of the evidence to be made after the evidence has been admitted.  Rucker v. Brown, 10 Vet. App. 67, 74 (1997); Layno v. Brown, 6 Vet. App. 465, 469 (1994); see also Cartright v. Derwinski, 2 Vet. App. 24, 25 (1991) ("although interest may affect the credibility of testimony, it does not affect competency to testify").
+
+Competent medical evidence is evidence provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions.  It may also include statements conveying sound medical principles found in medical treatises.  Competent medical evidence may also include statements contained in authoritative writings, such as medical and scientific articles and research reports or analyses.  38 C.F.R. § 3.159(a)(1). 
+
+Lay assertions may serve to support a claim for service connection by establishing the occurrence of observable events or the presence of a disability or symptoms of disability subject to lay observation.  38 U.S.C. § 1154(a) (2012); 38 C.F.R. § 3.303(a); Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); see also Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006) (addressing lay evidence as potentially competent to support presence of disability even where not corroborated by contemporaneous medical evidence).  Lay evidence can be competent and sufficient to establish a diagnosis or etiology when (1) a lay person is competent to identify a medical condition; (2) the lay person is reporting a contemporaneous medical diagnosis; or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009). 
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the veteran.  See 38 U.S.C. § 5107 (2012); 38 C.F.R. § 3.102 (2017). 
+
+Analysis
+
+The Veteran contends that service connection is warranted for an acquired psychiatric disorder other than PTSD.  The Board notes that the Veteran has been service-connected for PTSD.
+
+On his October 1966 induction examination and October 1969 separation examination, the Veteran denied depression or excessive worry and nervous trouble of any sort.  Upon objective examination, there were no findings of an abnormal psychiatric examination in October 1966, and upon separation, his psychiatric examination was normal.  The Veteran's service treatment records are silent for complaints of or treatment for a psychiatric disorder.  
+
+Post-service VA treatment records reflect that in June 2005, the Veteran was examined for, but found to not have, major depressive disorder.  In January 2010, the Veteran denied anxiety, but reported having nightmares and mood swings.  In May 2010, he was diagnosed with moderate, recurrent major depressive disorder, rule out PTSD.  
+
+A June 2010 VA examination report reflects that the Veteran had been treated for major depression and that the Veteran reported being stressed and depressed after moving his family from New York to Puerto Rico ten years prior.  However, he denied any significant anxiety.  The examiner disagreed with the Veteran's diagnosis of major depressive disorder and instead diagnosed the Veteran with an adjustment disorder with depressed mood due to situational stressors and transitions.  Furthermore, as the Veteran denied treatment for a mental disorder in service, and the examiner's finding that the Veteran's adjustment disorder with depressed mood was relatively recent and due to situational stressors, the examiner opined that the Veteran's adjustment disorder was not caused by or a result of service.
+
+VA treatment records reflect continued treatment for mental health.  The Veteran's depressive disorder was noted to be resolved, but he continued to be diagnosed with anxiety disorder, NOS, with PTSD symptoms.  See March 2011, November 2011, and January 2012 VA treatment records.
+
+A February 2012 examination report reflects that the Veteran reported experiencing a depressive affect, anxiety, and difficulty sleeping but denied suicidal or homicidal ideation or visual or auditory hallucinations.  The Veteran reported experiencing PTSD symptoms such as intrusive memories, nightmares, flashbacks, avoidance symptoms, and increased arousal symptoms.  However, the examiner found that these symptoms were not significant for PTSD when scored under the DSM-IV criteria.  As the Veteran's treatment records reflected that his depression appeared resolved, the VA examiner offered a diagnosis of anxiety disorder, NOS, to encompass the Veteran's symptoms, but found that it would resort to mere speculation to opine as to whether the Veteran's anxiety disorder was related to his conceded military combat stressor. 
+
+VA treatment records show continued treatment for anxiety disorder with symptoms of depression and PTSD.  See May 2012, February 2013, April 2013, May 2013, and July 2013 VA treatment records; see also December 2016 letter of Dr. W.G.
+
+An April 2016 VA examination report reflects that the examiner determined that a diagnosis of PTSD or an acquired psychiatric disorder other than PTSD could not be made, as test results indicated that the Veteran was not cooperative or possibly feigning symptoms.  The examiner noted that although the Veteran was not diagnosed with PTSD during the examination, it did not mean that he did not have PTSD.  The examiner further noted that although the Veteran's mental health provider had diagnosed the Veteran with PTSD, there was no evidence that the treatment provider made an attempt to assess the veracity of the Veteran's reported symptoms.  
+
+July 2017 VA treatment records reflect that the Veteran was diagnosed with PTSD, and that his previously diagnosed major depressive disorder was in remission. 
+
+A July 2017 VA examination report reflects that the examiner found that the Veteran had symptoms of depressed mood, anxiety, chronic sleep impairment, and disturbances of motivation and mood, but no other symptoms attributable to PTSD or other mental disorder.  The examiner found that the Veteran endorsed signs and symptoms of PTSD per the DSM-V, including participating in combat, discharging his weapon, and exposure to people being hurt and killed.  The examiner noted that the Veteran was able to keep a job for 33 years until retirement, had been married for 46 years, and had close ties with his family.  The Veteran had no history of acute psychiatric inpatient care, denied suicidal or homicidal ideas or plans, and did not exhibit signs of psychosis.  The examiner concluded that the Veteran had mild symptoms of PTSD and that the Veteran's PTSD was most likely incurred in or caused by service.  However, the examiner found that at the time of the examination, the Veteran did not exhibit another and/or comorbid mental condition other than PTSD.  The examiner opined that the Veteran's symptoms were accounted for with the PTSD diagnosis.  
+
+In this case, the preponderance of the evidence indicates that the Veteran does not have an acquired psychiatric disorder other than PTSD.  His VA treatment records note an initial diagnosis of major depressive disorder, rule out PTSD.  Subsequent VA treatment records reflect a diagnosis of anxiety disorder with PTSD symptoms.  
+
+However, additional treatment records reflect that his major depressive disorder resolved.  Significantly, the July 2017 VA examiner diagnosed the Veteran with PTSD, found that the Veteran did not have more than one mental disorder diagnosed, and that all of the Veteran's psychiatric symptoms were associated with his PTSD.  
+
+Therefore, the Board finds that the Veteran does not have a psychiatric disorder other than PTSD.  The first element of a service connection claim is not satisfied with regard to an acquired psychiatric disorder other than PTSD.  Shedden, 381 F.3d at 1166-67.  The existence of a current disability is the cornerstone of a claim for VA disability compensation.  Degmetich v. Brown, 104 F.3d 1328 (Fed. Cir. 1997); Gilpin v. West, 155 F.3d 1353 (Fed. Cir. 1998).  In the absence of evidence of a current disability there can be no valid claim.  Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992); see McClain v. Nicholson, 21 Vet. App. 319 (2007) (finding that the requirement for a current disability is satisfied if the claimant has a disability at the time a claim was filed or at any time during the pendency of the appeal, even if the disability resolves prior to the Secretary's adjudication of the claim).
+
+The Board notes that even if the Veteran met the first element of a service connection claim, such that he had a currently diagnosed psychiatric disorder other than PTSD, his claim for service connection would not meet the third element.  The June 2010 VA examiner opined that the Veteran's psychiatric disorder, diagnosed as an adjustment disorder, was not caused by or a result of service, but was relatively recent and due to situational stressors.  Additionally, the February 2012 VA examiner was unable to opine that the Veteran's anxiety disorder was related to his military stressors, as doing so would resort to mere speculation.  Thus, the Veteran's previously diagnosed psychiatric conditions have not been shown to be related to service. 
+  
+Accordingly, the preponderance of the evidence of record does not show that the Veteran has a diagnosis for VA purposes of an acquired psychiatric disorder other than PTSD, which is related to active service.  Therefore, the Board finds that the service connection is not warranted.  Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+ORDER
+
+Service connection for an acquired psychiatric disorder other than PTSD is denied.
+
+
+REMAND
+
+The Veteran contends that service connection is warranted for his sleep apnea.  Specifically, he contends that his sleep apnea is secondary to his service-connected PTSD.  
+
+The Veteran was afforded a VA medical opinion in April 2016.  The Veteran was not examined in person, and the opinion was based upon a review of the medical evidence, including the Veteran's service treatment records and claims folder, and the medical literature.  The examiner noted that the Veteran had been diagnosed with sleep apnea in 2011.  The examiner explained that sleep apnea is an anatomical/physiological disorder most commonly caused by airflow obstruction from the oropharynx to the lungs, and is commonly manifested by loud snoring, frequent sleep interruption, daytime moodiness, lack of concentration, and daytime headache.  The examiner further explained that PTSD is a mental health diagnosis which has no nexus with the physiologic/anatomic changes that are at the root of sleep apnea, and the disordered sleep that may result from PTSD does not produce the same symptoms of sleep apnea.  Thus, the examiner opined that there was no secondary service connection for sleep apnea due to PTSD.  
+
+The Board finds that the April 2016 opinion is inadequate.  Although the examiner opined that the Veteran's sleep apnea was not caused by the Veteran's PTSD, the examiner did not render an opinion as to whether the Veteran's sleep apnea is aggravated by his PTSD.
+
+VA treatment records reflect that the Veteran is on mirtazapine for his mood and sleep.  The Veteran reported that since being on the medication, he has had an increase in his nightmares and that he would rip off his c-pap tubing in his sleep.  See June 2017 VA treatment records.  In addition, the Veteran's representative has submitted additional citations to medical studies and literature in support of the Veteran's claim, with the most recent study dated in 2017, and subsequent to the April 2016 VA medical opinion.  See October 2017 correspondence. 
+
+As such, the Board finds that a remand is warranted for a new medical opinion as to whether the Veteran's sleep apnea is caused by or aggravated by his service-connected PTSD, to include any medications he takes to treat his PTSD.  
+
+With regard to the issue of entitlement to a TDIU, a decision on the service connection claim for sleep apnea being remanded herein, as well as the increased rating claim for PTSD pending before the RO, may affect the claim for a TDIU.  Any grant of an increased rating claim or service connection claim could significantly change the adjudication of the TDIU issue because such a grant could increase the Veteran's overall combined disability percentage.  See Parker v. Brown, 7 Vet. App. 116 (1994); Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) (issues are "inextricably intertwined" when a decision on one issue would have a "significant impact" on a veteran's claim for the second issue).  Consideration of entitlement to a TDIU must therefore be deferred until the intertwined issues are resolved or prepared for appellate consideration.  See id. (where a claim is inextricably intertwined with another claim, the claims must be adjudicated together).
+
+Any outstanding, pertinent VA treatment records and private records identified by the Veteran should be obtained and associated with the Veteran's electronic claims file.  The most recent VA treatment records on file are dated in August 2017.
+
+Accordingly, the case is REMANDED for the following actions:
+
+1.  Obtain and associate with the Veteran's electronic claims file any outstanding VA treatment records dated since August 2017 and any private treatment records identified by the Veteran. 
+
+2.  Then, return the Veteran's claims file to the April 2016 VA examiner for an addendum opinion concerning the nature and etiology of the Veteran's diagnosed sleep apnea.  If the examiner is no longer available, the claims file should be provided to an examiner qualified to render an opinion on the Veteran's sleep apnea.  A new examination is only required if deemed necessary by the examiner.  The record and a copy of this remand must be made available to the examiner for review, and the examiner must specifically acknowledge receipt and review of these materials in any reports generated.  
+
+If a new examination is conducted, the examiner must take a detailed history from the Veteran.  If there is any clinical or medical basis for corroborating or discounting the reliability of the history provided by the Veteran, the examiner must so state, with complete explanation in support of such a finding.
+
+The examiner must opine as to whether it is at least as likely as not (50 percent or greater possibility) that the Veteran's sleep apnea is caused or aggravated (i.e., permanently worsened beyond the normal progression of the disability) by his service-connected PTSD, to include any medication the Veteran takes to treat his PTSD.  If the examiner finds that the Veteran's sleep apnea is aggravated by his PTSD, then he or she should quantify the degree of aggravation, if possible.
+
+The examiner must provide a comprehensive report including complete rationales for all opinions and conclusions, based on his or her clinical experience, medical expertise, and established medical principles. If the examiner is unable to provide the requested opinions without resorting to speculation, the reasons for the inability to provide the necessary opinion should be provided. Any missing evidence that would enable the examiner to provide the opinion should be identified.
+
+The examiner is advised that the term "as likely as not" does not mean within the realm of possibility.  Rather, it means that the weight of medical evidence both for and against a conclusion is so evenly divided that it is medically sound to find in favor of causation as to find against causation.  More likely and as likely support the causal relationship.  Less likely weighs against the claim.
+
+3.  After completing the above, and any other development as may be indicated, the Veteran's claims of service connection for sleep apnea secondary to service-connected PTSD and entitlement to a TDIU should be readjudicated based on the entirety of the evidence.  If the claim remains denied, the Veteran and his representative should be issued a supplemental statement of the case (SSOC).  An appropriate period of time should be allowed for response.  Thereafter, the case should be returned to the Board for further appellate consideration, if otherwise in order.
+
+The appellant has the right to submit additional evidence and argument on the matters the Board has remanded.  Kutscherousky v. West, 12 Vet. App. 369 (1999).
+
+
+These claims must be afforded expeditious treatment.  The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.  See 38 U.S.C. §§ 5109B, 7112 (2012).
+
+
+
+
+______________________________________________
+K. PARAKKAL
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

@@ -1,0 +1,190 @@
+Citation Nr: 1805403	
+Decision Date: 01/26/18    Archive Date: 02/07/18
+
+DOCKET NO.  12-04 867A	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Winston-Salem, North Carolina
+
+
+THE ISSUES
+
+1.  Entitlement to an initial rating in excess of 70 percent for posttraumatic stress disorder (PTSD).
+
+2.  Entitlement to an earlier effective date for PTSD prior to March 30, 2012.
+
+3.  Entitlement to a total disability rating based upon individual unemployability (TDIU) due to a service-connected disability.
+
+
+REPRESENTATION
+
+Veteran represented by: J. Michael Woods, Attorney
+
+
+ATTORNEY FOR THE BOARD
+
+A. Snoparsky, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty in the United States Army from May 1972 to June 1972.  
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from an August 2012 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Winston-Salem, North Carolina. 
+
+This matter was previously before the Board in May 2016 and was remanded for further development.
+
+A claim for service connection for a mental disability may encompass claims for service connection of any mental disability that may reasonably be encompassed by several factors, including the veteran's description of the claim, the symptoms the veteran describes and the information the veteran submits or that the Secretary obtains in support of the claim.  Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).  Accordingly, the Board has taken an expansive view of the claim for service connection for PTSD pursuant to Clemons and re-characterized it as shown on the cover page of this decision.
+
+The claims file is now entirely in VA's secure electronic processing system, Virtual VA and Veterans Benefits Management System (VBMS).
+
+
+FINDINGS OF FACT
+
+1.  The Veteran's PTSD is manifested by occupational and social impairment deficiencies in most areas, but has not caused total occupational and social impairment.  
+
+2.  The record does not reflect the Veteran filed a claim for service connection for PTSD prior to March 30, 2012.
+
+3.  The Veteran's service-connected disabilities render him unable to secure or follow substantially gainful employment.
+
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for an initial rating in excess of 70 percent disabling are not met.  38 U.S.C. §§ 1155, 5103, 5107 (2012); 38 C.F.R. §§ 3.103, 3.159, 3.321, 4.1, 4.7, 4.130, Diagnostic Code (DC) 9411 (2017).
+
+2.  The criteria for an effective date prior to March 30, 2012 for the award of service-connected PTSD have not been met. 38 U.S.C.§§ 5107 (b) (2012); 38 C.F.R. §§ 3.400 (2017).
+
+3.  The criteria for entitlement to a TDIU have been met.  38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 3.102, 3.340, 3.341, 4.3, 4.7, 4.15, 4.16, 4.18, 4.19 (2017).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+I.  Duty to Assist and to Notify
+
+Neither the Veteran nor his representative has raised any issues with the duty to notify or duty to assist.  See Scott v McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board... to search the record and address procedural arguments when the Veteran fails to raise them before the Board."); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to duty to assist argument).
+
+
+II.  Initial Rating for PTSD in Excess of 70 Percent
+
+A.  Legal Criteria
+
+Disability ratings are determined by applying the criteria established in VA's Schedule for Rating Disabilities, which is based upon the average impairment of earning capacity.  Individual disabilities are assigned separate Diagnostic Codes.  38 U.S.C. § 1155 (2012); 38 C.F.R. §§ 4.1, 4.20 (2017).  When a question arises as to which of two ratings applies under a particular Diagnostic Code (DC), the higher evaluation is assigned if the disability more nearly approximates the criteria for the higher rating; otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7 (2017).  Consideration must be given to increased evaluations under other potentially applicable Diagnostic Codes.  Schafrath v. Derwinski, 1 Vet. App. 589, 595 (1991).  Furthermore, when it is not possible to separate the effects of the service-connected disability from a nonservice-connected condition, such signs and symptoms must be attributed to the service-connected disability.  38 C.F.R. § 3.102 (2017); Mittleider v. West, 11 Vet. App. 181, 182 (1998).  After careful consideration of the evidence, any reasonable doubt remaining is resolved in favor of the veteran. 38 C.F.R. § 4.3 (2017).
+
+Staged ratings are appropriate for an increased rating claim when the factual findings show distinct time periods where the service-connected disability exhibits symptoms that would warrant different ratings.  Hart v. Mansfield, 21 Vet. App. 505 (2007) (citing Fenderson v. West, 12 Vet. App. 119, 126 (1999)).  In a claim for a greater original rating after an initial award of service connection, all of the evidence submitted in support of the Veteran's claim is to be considered.  See Fenderson, 12 Vet. App. 119 (1999).  The veteran's entire history is to be considered when making a disability determination.  38 C.F.R. § 4.1 (2014); Schafrath v. Derwinski, 1 Vet. App. 589 (1995).   
+
+Pyramiding, that is the evaluation of the same disability, or the same manifestation of a disability, under different diagnostic codes, is to be avoided when evaluating a veteran's service-connected disability.  38 C.F.R. § 4.14 (2017); see Esteban v. Brown, 6 Vet. App. 259, 261- 62 (1994).
+
+A 70 percent rating is prescribed when there is evidence of occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately, and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); and inability to establish and maintain effective relationships.  See 38 C.F.R. § 4.130, DC 9411.
+
+A 100 percent rating is prescribed when there is evidence of total occupational and social impairment due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations, grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation as to time or place; and memory loss for names of close relatives, own occupation, or own name. Id.
+
+The list of symptoms under the rating criteria are meant to be examples of symptoms that would warrant the rating, but are not meant to be exhaustive, and the Board need not find all or even some of the symptoms to award a specific rating. Mauerhan v. Principi, 16 Vet. App. 436, 442-3 (2002).  However, a veteran may only qualify for a given disability rating under § 4.130 by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration, and that such symptoms have resulted in the type of occupational and social impairment associated with that percentage.  Vazquez-Claudio v. Shinseki, 713 F.3d 112, 117-18 (Fed. Cir. 2013).
+
+The evaluation of evidence generally involves a three-step inquiry.  First, the Board must determine whether the evidence comes from a competent source.  Second, the Board must determine if the evidence is credible.  Barr v. Nicholson, 21 Vet. App. 303, 308 (2007).  Third, the Board must weigh the probative value of the proffered evidence in light of the entirety of the record. 
+
+A veteran is entitled to the benefit of the doubt when there is an approximate balance of positive and negative evidence on any issue material to the claim.  See 38 U.S.C. § 5107 (2012); 38 C.F.R. § 3.102 (2017) (providing, in pertinent part, that reasonable doubt will be resolved in favor of the veteran).  When the evidence supports the claim or is in relative equipoise, the claim will be granted.  See Gilbert v. Derwinski, 1 Vet. App. 49, 55 (1990); see also Wise v. Shinseki, 26 Vet. App. 517, 532 (2014).  If the preponderance of the evidence weighs against the claim, it must be denied.  See id.; Alemany v. Brown, 9 Vet. App. 518, 519 (1996).
+
+B.  Facts
+
+The Veteran's medical records from several facilities show he continues to seek treatment for his mental health conditions, including his service-connected PTSD.
+
+The Veteran was afforded an examination for his PTSD in February 2013.  The examiner reviewed the Veteran's file and noted the Veteran's diagnosis of PTSD.  The examiner noted the Veteran suffered from symptoms such as anxiety, panic attacks occurring weekly or less often, chronic sleep impairment, mild memory loss, impaired judgment, suicidal ideations, and intermittent inability to perform activities of daily living, including maintenance of minimal personal hygiene.  The Veteran reported that he had been hospitalized three to four times since 2009 for his PTSD and had been seeing a therapist.  The examiner noted the Veteran had occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, and/or mood.  The Veteran's April 2013 examination stated the Veteran missed three or more days of work per month due to his mental problems and would need to leave early three or more days per month because of his mental problems.  The Veteran would also have more than three days per month when he would not be able to stay focused for at least seven hours of an eight hour workday.  The examiner also stated the Veteran would frequently decompensate when subjected to normal pressures and constructive criticisms of a job.  
+
+In September 2015, one of the Veteran's mental health examiners submitted an updated mental health assessment of the Veteran.  The Veteran reported he was having symptoms of intrusive thoughts, flashbacks, depersonalization, and isolation from friends and family.  The Veteran also stated he had anger against his mother surfacing.  The Veteran reported an auto accident in July 2009 that left him with confusion, memory problems, severe anxiety, and flashbacks to his first auto accident.  The examiner noted the Veteran's medical records did not indicate that any actual damage had been done to the Veteran's brain.  The examiner noted the Veteran was appropriately dressed with moderate eye contact and rapport.  The examiner stated the Veteran did not report suicidal or homicidal ideations. 
+
+In August 2017, the Veteran's spouse submitted another statement, detailing daily life living with the Veteran and his PTSD.  The Veteran's spouse stated the Veteran lived in a hotel for several months so he could cope with his PTSD symptoms.  The Veteran's spouse reported that the Veteran's PTSD limited his ability to functionally interact appropriately and affectively from day to day.  The Veteran's spouse reported the Veteran spoke to her about suicidal ideations and experienced a lot of anxiety and panic.  Sometimes, the Veteran's spouse reported, the Veteran would say things that were inappropriate out of nervousness.  The Veteran's spouse stated the Veteran lacked focus and could become frustrated, leading to arguments and that he struggled to remember things and was not able to control his emotions.  
+
+C.  Analysis
+
+The Veteran's PTSD is currently evaluated as 70 percent disabling beginning March 30, 2012 pursuant to 38 C.F.R. § 4.130, DC 9411 (2017).  
+
+The medical evidence, combined with the Veteran's and his spouse's subjective reports of his symptoms, indicates that the severity level of his PTSD warrants no more than a 70 percent rating.  In this regard, the Veteran's PTSD was productive of occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately, and effectively; impaired impulse control, spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances; and inability to establish and maintain effective relationships.  The evidence does not show the Veteran's PTSD is productive of total occupational and social impairment.  While the Veteran's spouse reported the Veteran sometimes struggled with his memory, had suicidal ideations, and sometimes said inappropriate things, she did say the Veteran was able to interact with her and did not indicate the Veteran was totally impaired due to his PTSD.  Additionally, the other evidence of record does not indicate the Veteran to be totally occupationally and social impaired due to his PTSD.
+
+The Board has considered the Veteran's statements regarding the severity of his PTSD symptoms, including his statements that he had to miss work due to his mental health.  The Veteran contends that PTSD is far more disabling than the ratings he was assigned and the Veteran is competent to report the occurrence of lay-observable events or the presence of disability or symptoms of disability subject to lay observation.  38 U.S.C.§ 1153 (a); 38 C.F.R. § 3.303 (a); Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); see Buchanan v. Nicholson, 451 F. 3d 1331, 1336 (Fed. Cir. 2006).  Ultimately, however, the opinions and observations of the Veteran do not meet the burden for a higher rating imposed by the rating criteria under 38 C.F.R. § 4.71a with respect to determining the severity of his PTSD because the Veteran's statements, along with the objective evidence, do not tend to show that he is totally socially and occupationally disabled.  The preponderance of the medical and subjective evidence does not show that symptomatology associated with the Veteran's PTSD more nearly approximates the schedular criteria associated with the next higher, 100 percent rating.  Therefore, an increased rating in excess of 70 percent disabling is denied.
+
+The Board has considered the applicability of the benefit of the doubt doctrine.  Because the preponderance of the evidence is against the Veteran's claim, the benefit of the doubt doctrine does not apply.  See 38 U.S.C. §5107(b); Gilbert v. Derwinski, 1 Vet. App. 49, 55-57(1990).
+
+III.  Earlier Effective Date for PTSD Prior to March 30, 2012
+
+A.  Legal Criteria
+
+In general, the effective date of an award based on an original claim or a claim reopened after final adjudication of compensation shall be fixed in accordance with the facts found, but shall not be earlier than the date of the receipt of the application. 38 U.S.C. § 5110 (a); 38 C.F.R. § 3.400. Generally, the effective date of an award of disability compensation based on an original claim shall be the date of receipt of the claim or the date entitlement arose, whichever is later. 38 U.S.C. § 5110 (a); 38 C.F.R. § 3.400. The effective date of an award of disability compensation based on a claim to reopen after a final disallowance shall be the date of receipt of the new claim or the date entitlement arose, whichever is later. 38 U.S.C. § 5110 (a); 38 C.F.R. § 3.400 (q)(ii), (r).  The provisions of 38 C.F.R. 
+§ 3.400 (b)(2) allow for assignment of an effective date the day following separation from active service if a claim is received within one year after separation from service.
+
+Any communication or action, indicating intent to apply for one or more benefits under the laws administered by VA may be considered an informal claim. Such informal claim must identify the benefit sought.  Upon receipt of an informal claim, if a formal claim has not been filed, an application form will be forwarded to the claimant for execution. 38 C.F.R. § 3.155 (a).
+
+B.  Analysis
+
+The Veteran first submitted his informal claim for service connection for PTSD on March 30, 2012.  After reviewing the totality of the evidence, the Board finds that VA did not receive an application for service connection for PTSD prior to that date, nor is there any indication from the Veteran that he intended to file a claim for PTSD prior to that date.  
+
+While the Board finds the Veteran both competent and credible to discuss his conditions, the record does not contain a previously filed claim, formal or informal, for PTSD.  Even if the Veteran had sought medical treatment for PTSD prior to March 30, 2012, medical treatment in of itself does not establish a claim for service connection.  See Brannon v. West, 12 Vet. App. 32, 35 (1998); see also Lalonde v. West, 12 Vet. App. 377, 382 (1999)
+
+The Veteran separated from service in June 1972.  Under 38 C.F.R. §3.400 for direct service connection, the effective date is the day following separation from active service or the date entitlement arose if the claim is received within one year after separation from service.  The effective date for presumptive service connection is the date the entitlement arose, if the claim is received within one year after separation from active duty.  However, the Veteran did not file his claim within one year of separation from service.  Therefore, the effective date for his PTSD claim remains the date of receipt of the claim or the date entitlement arose, whichever is later.  While sympathetic to the Veteran's belief that an earlier effective date is warranted, for the reasons outlined above, the Board is precluded by law from assigning an effective date prior to March 30, 2012 for the grant of service connection for PTSD.  Because no claim was filed prior to March 30, 2012 and because the Veteran did not file his service connection for PTSD within one year of his separation from service, the claim must be denied.
+
+The Board has considered the applicability of the benefit of the doubt doctrine.  Because the preponderance of the evidence is against the Veteran's claim, the benefit of the doubt doctrine does not apply.  See 38 U.S.C. §5107(b); Gilbert v. Derwinski, 1 Vet. App. 49, 55-57(1990).
+
+IV.  TDIU
+
+A.  Legal Criteria
+
+Entitlement to a TDIU requires the presence of impairment so severe that it is impossible for the average person to follow a substantially gainful occupation.  Consideration may be given to the veteran's level of education, special training, and previous work experience in arriving at a conclusion, but not to his age or to the impairment caused by nonservice-connected disabilities.  38 U.S.C. § 1155 (2012); 38 C.F.R. §§ 3.340, 3.341, 4.16, 4.19 (2017).  In reaching such a determination, the central inquiry is "whether the veteran's service-connected disabilities alone are of sufficient severity to produce unemployability."  Hatlestad v. Brown, 5 Vet. App. 524, 529 (1993).  The fact that a veteran is unemployed or has difficulty obtaining employment is not enough to warrant a TDIU.  See Van Hoose v. Brown, 4 Vet. App 361.  
+
+The law provides that a total disability rating may be assigned where the schedular rating is less than total when the disabled person is unable to secure or follow a substantially gainful occupation as a result of service-connected disabilities, provided that, if there is only one such disability, this disability shall be ratable at 60 percent or more, or if there are two or more disabilities, there shall be at least one disability ratable at 40 percent or more, and sufficient additional disability to bring the combined rating to 70 percent or more.  See 38 C.F.R. § 4.16(a) (2017).
+
+Where these criteria are not met, but the Veteran is nevertheless unemployable by reason of service-connected disabilities, VA shall submit the case to the Director of Compensation Service for consideration as to whether a TDIU may be awarded on an extraschedular basis.  38 C.F.R. § 4.16(b).
+
+B.  Facts
+
+In his application for TDIU, the Veteran stated he last worked in 1988 and that he had not attempted to obtain work since he became too disabled to work.  The Veteran stated he had a high school level education and no other specialized training.
+
+In a July 2008 letter, a former employer confirmed the Veteran had worked as a grounds man prior to his time in service.  Duties at that time involved rigging poles, sending up cross-arms, disconnects and reconnects of consumer meters, climbing trees, and cutting right of ways.  
+
+In a December 2008 letter, a friend of the Veteran prior to service wrote to say that he did not recall the Veteran having any physical limitations during their time at school together or at any time prior to his military service.  
+
+In June 2013 statement, one of the Veteran's examiners stated the Veteran had psychiatric problems more than three days per month and the Veteran could not stay focused for at least seven hours of an eight hour work day.  Additionally, the examiner noted the Veteran would frequently decompensate when subject to pressures and constructive criticisms of a job.  The examiner also stated the Veteran would have to miss and/or leave early from work approximately three or more days per month.
+
+In July 2014, the Veteran's spouse submitted a statement, reporting the Veteran was in so much pain sometimes that he was unable to get up from a sitting or lying position without assistance and that this pain made it difficult for the Veteran to perform daily activities.  The Veteran's spouse also stated that the Veteran had problems walking.  
+
+In a February 2015 examination, the examiner noted that after his service, the Veteran worked at a paper mill for fifteen years as a machine operator.  The Veteran stated his back pain had caused him to miss work and to be bed ridden during flare-ups.  The Veteran reported that after forty-three years of this condition, he is in constant pain.  The examiner opined the Veteran's back condition would impact his ability to work in that it would be difficult for him to do a job that required prolonged periods of lifting heavy equipment or prolonged periods of sitting.
+
+In May 2016, the Veteran submitted an opinion from a vocational consultant.  The consultant reviewed the Veteran's file and opined, based upon her review of the evidence, that the Veteran's service-connected PTSD and back condition rendered him unable to perform work at a substantially gainful level.
+
+The Veteran submitted another application form for a TDIU in June 2016.  The Veteran added that he had worked as a turbine room operator full-time from May 1972 to September 1988, which was the date he last worked and the date he said he became too disabled to work.
+
+In a letter dated August 2016, the Social Security Administration (SSA) confirmed the Veteran had been receiving benefits since 1989 but that the Veteran's medical records were unavailable because they had been destroyed.
+
+In an August 2017 mental health evaluation to assess the Veteran's ability to do work-related activities, the examiner noted the Veteran missed/left early three or more days a month due to his mental problems.  The examiner also stated the Veteran had problems concentrating seven hours out of an eight hour work day more than three days per month and that the Veteran would react about once per month in a violent manner if subjected to normal pressures and constructive criticisms of a job.
+
+In an October 2017 medical interview, the examiner reviewed the Veteran's personal, occupational, and military history.  The examiner concluded that based on the Veteran's history and the evidence-based literature, it would be unlikely that the Veteran would be able to adequately sustain and maintain meaningful gainful employment due to his PTSD and associated symptomatology.  
+
+C.  Analysis
+
+The Veteran contends he is unable to secure or follow a substantially gainful occupation due to his service-connected disabilities.
+
+The Veteran is service connected for PTSD rated at 70 percent disabling from March 30, 2012.  As such, the Veteran met the schedular requirement under 38 C.F.R. § 4.16(a) as of March 30, 2012.  
+
+The Board finds the Veteran unable to obtain or maintain gainful employment.  The objective evidence, along with the statements from the Veteran and his spouse show the Veteran is unable to maintain gainful employment.  Additionally, many of the Veteran's medical providers have observed the Veteran had difficulty at work due to his mental health symptoms.  Additionally, two examiners (See February 2015 and October 2017 medical records) have said the Veteran would have difficulty maintaining gainful employment.  Lastly, a May 2016 vocational consultant opined the Veteran could not perform work at a substantially gainful level.  Because the preponderance of the evidence shows the Veteran cannot obtain or maintain gainful employment, the Board finds a TDIU is warranted.
+
+
+ORDER
+
+Entitlement to an initial rating in excess of 70 percent for PTSD is denied.
+
+Entitlement to an earlier effective date for PTSD prior to March 30, 21012 is denied.
+
+A TDIU is granted.
+
+
+
+
+____________________________________________
+Cynthia M. Bruce
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

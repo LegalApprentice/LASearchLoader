@@ -1,0 +1,224 @@
+Citation Nr: 1803013	
+Decision Date: 01/16/18    Archive Date: 01/29/18
+
+DOCKET NO.  10-03 653	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Detroit, Michigan
+
+
+THE ISSUES
+
+1.  Entitlement to service connection for erectile dysfunction, to include as secondary to service-connected posttraumatic stress disorder (PTSD).
+
+2.  Entitlement to a rating in excess of 70 percent for PTSD
+
+3.  Entitlement to an initial compensable rating for bilateral hearing loss prior to December 15, 2015, and in excess of 10 percent since that date.
+
+
+REPRESENTATION
+
+Appellant represented by:	Vietnam Veterans of America
+
+
+ATTORNEY FOR THE BOARD
+
+B. Moore, Associate Counsel
+
+INTRODUCTION
+
+The Veteran served on active duty from February 1969 to February 1971, to include service in the Republic of Vietnam. He was awarded the Bronze Star.
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a July 2009 rating decision of the Detroit, Michigan, Regional Office (RO) of the Department of Veterans Affairs (VA) which granted service connection and assigned initial ratings for PTSD and hearing loss, effective October 31, 2008.  In a July 2010 rating decision, the evaluation for PTSD was increased from 10 to 50 percent, effective the date of the grant of service connection.  In connection with this appeal, the Veteran and his wife testified at hearings before a Decision Review Officer (DRO) in April 2010 and May 2011.  Transcripts of the hearings are of record.
+
+The Board remanded this case in November 2015.  The case has returned to the Board for adjudication.  The Board is satisfied that there has been substantial compliance with the remand directives and the Board may proceed with review.  Stegall v. West, 11 Vet. App. 268 (1998).  
+
+In a March 2016 rating decision, the Appeals Management Center (AMC) increased the rating for PTSD to 70 percent, effective October 31, 2008; and increased the rating for hearing loss from noncompensable to 10 percent, effective December 15, 2015.  The issues before the Board are as noted on the title page.  
+
+
+FINDINGS OF FACT
+
+1.  The evidence of record indicates that the Veteran's erectile dysfunction is related to his service-connected PTSD.
+
+2.  During the period on appeal, the Veteran has displayed hearing loss of the left ear manifested by average puretone air conduction thresholds at 1,000, 2,000, 3,000, and 4,000 Hertz of no worse than 50 decibels, and speech recognition ability (Maryland CNC test) of 78 percent.
+
+3.  During the period on appeal, the Veteran has displayed hearing loss of the right ear manifested by average puretone air conduction thresholds at 1,000, 2,000, 3,000, and 4,000 Hertz of no worse than 45 decibels, and speech recognition ability (Maryland CNC test) of 72 percent.
+
+4.  During the period on appeal, the Veteran's PTSD, was manifested, at worst, by occupational and social impairment with deficiencies in most areas.
+
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for entitlement to service connection for erectile dysfunction have been met.  38 U.S.C. §§ 1110, 5103, 5103A, 5107 (2012); 38 C.F.R. §§ 3.102, 3.159, 3.303 (2017).
+
+2.  The criteria for a rating in excess of 70 percent for PTSD have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.2, 4.7, 4.126, 4.130, Diagnostic Code (DC) 9411.
+
+3.  The criteria for a compensable rating prior to December 2015 for a hearing loss disability have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.2, 4.7, 4.85, Diagnostic Code 6100.
+
+4.  The criteria for a rating in excess of 10 percent for a hearing loss disability have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.2, 4.7, 4.85, Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+I. Legal Criteria
+
+Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a link between the claimed in-service disease or injury and the present disability. Romanowsky v. Shinseki, 26 Vet. App. 289 (2013). Secondary service connection will be granted if a disability is proximately due to or the result of a service-connected disease or injury or aggravated by a service-connected disease or injury. See Allen v. Brown, 7 Vet. App. 439 (1995) (en banc); 38 C.F.R. § 3.310(a)-(b). With respect to aggravation, "[a]ny increase in severity of a nonservice-connected disease or injury that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progress of the nonservice-connected disease, will be service connected." 38 C.F.R. § 3.310(b). 
+
+Once service connection has been granted, disability evaluations are determined by the application of a schedule of ratings that are based on average impairment of earning capacity.  See 38 U.S.C. § 1155; Part 4.  Separate diagnostic codes identify the various disabilities, and disabilities must be reviewed in relation to their history.  See 38 C.F.R. § 4.1.  Pertinent general policy considerations include: interpreting examination reports in light of the whole recorded history, reconciling the various reports into a consistent picture so that the current rating may accurately reflect the elements of disability, resolving any reasonable doubt regarding the degree of disability in favor of the claimant, evaluating functional impairment on the basis of lack of usefulness, and evaluating the effects of the disability upon the veteran's ordinary activity.  See 38 C.F.R. §§ 4.2, 4.3, 4.10; Schafrath v. Derwinski, 1 Vet. App. 589 (1991).  This analysis is undertaken with consideration of the possibility that different ratings may be warranted for different periods.  See Hart v. Mansfield, 21 Vet. App. 505 (2007).  
+
+Where the issue is the initial disability evaluation assigned, VA must consider the medical evidence since the effective date of service connection, as well as whether staged ratings are appropriate.  See Fenderson v. West, 12 Vet. App. 119 (1999).  Further, "[w]here there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned."  38 C.F.R. § 4.7.
+
+PTSD
+
+Acquired psychiatric disabilities are evaluated under 38 C.F.R. § 4.130, with PTSD evaluated under Diagnostic Code 9411.  Under that diagnostic code, a 50 percent rating is warranted for occupational and social impairment with reduced reliability and productivity.  This may be due to such symptoms such as, for example: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short-and long-term memory (e.g. retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; difficulty in establishing effective work and social relationships.  See id.
+
+A 70 percent rating is warranted when there is occupational and social impairment with deficiencies in most areas (such as work, school, family relations, judgment, thinking, and mood).  This may be due to such symptoms such as, for example: suicidal ideations; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a worklike setting); and the inability to establish and maintain effective relationships.  See id.  A 100 percent rating is warranted if there is total occupational and social impairment.  This may be due to such symptoms such as, for example: gross impairment in thought processes or communication; persistent delusions or hallucinations; gross inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation or own name.  See id.
+
+The above-cited criteria are "not intended to constitute an exhaustive list, but rather are to serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating."  Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002).  "[A] veteran may only qualify for a given disability rating under § 4.130 by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration."  Vazquez-Claudio v. Shinseki, 713 F.3d 112 (Fed. Cir. 2013).  When evaluating a mental disorder, the frequency, severity, and duration of psychiatric symptoms, the length of remissions, and the veteran's capacity for adjustment during periods of remission must be considered.  See 38 C.F.R. § 4.126.  The use of the term "such as" in 38 C.F.R. § 4.130 demonstrates that the symptoms after that phrase are not intended to constitute an exhaustive list, but rather are to serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating.  See Mauerhan, 16 Vet. App. at 436.  Further, the evaluation must be based on all the evidence of record that bears on occupational and social impairment rather than solely on an examiner's assessment of the level of disability at the moment of an examination.  See id.
+
+Psychiatric examinations frequently include assignment of a Global Assessment of Functioning (GAF) score.  The GAF is a scale which reflects the "psychological, social, and occupational functioning on a hypothetical continuum of mental health-illness."  See American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV).  The Board notes that the GAF scale was removed from the more recent DSM-5 for several reasons, including its conceptual lack of clarity, and questionable psychometrics in routine practice.  See DSM-5, Introduction, The Multiaxial System (2013).  Still, the GAF score and interpretations of the score are important considerations in the rating of a psychiatric disability, though the GAF score assigned to a veteran is not dispositive of the severity of the veteran's mental health disability.  See Richard v. Brown, 9 Vet. App. 266, 267 (1996); Carpenter v. Brown, 8 Vet. App. 240 (1995).  The GAF score must be considered in light of the actual symptoms manifested by the veteran's disorder, which must provide the primary basis for the rating assigned.  See 38 C.F.R. § 4.126(a).  
+
+According to the pertinent sections of the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (1994) (DSM-IV), a GAF score of 71 to 80 indicates that if symptoms are present, they are transient and expectable reactions to psychosocial stressors, and that the examinee suffers no more than slight impairment in social, occupational, or school functioning.  A GAF score of 61 to 70 indicates some mild symptoms, or that the examinee suffers from some difficulty with social, occupational, or school functioning, but that the examinee generally functions well and has some meaningful interpersonal relationships.  A GAF score of 51 to 60 indicates the examinee has moderate symptoms or moderate difficulty in social, occupational, or school functioning.  A GAF score of 41 to 50 indicates the examinee has serious symptoms or a serious impairment in social, occupational, or school functioning.  See Quick Reference to the Diagnostic Criteria from DSM-IV, 46-47 (1994).
+
+Hearing loss 
+
+A hearing loss disability is rated under 38 C.F.R. §§ 4.85, 4.86, DC 6100.  Hearing loss evaluations are derived by a mechanical application of the ratings schedule to the numeric designations assigned after audiometric evaluations are rendered.  See Lendenmen v. Principi, 3 Vet. App. 345, 349 (1992).  The ratings schedule provides a table for this purpose (Table VI), and provides a Roman numeral designation (I through XI) for hearing impairment in each ear.  Table VII is used to determine a veteran's disability rating by combining the Roman numeral designations for hearing impairment in both ears.  See 38 C.F.R. § 4.85.  
+
+II. Facts and Analysis
+
+Service connection 
+
+Erectile dysfunction
+
+A June 2009 VA examination report notes the Veteran as suffering from erectile dysfunction, from in or about sometime in 2004.  The author of an August 2017 medical opinion letter provided by the Veterans Health Administration (VHA), which discussed the relationship between the Veteran's erectile dysfunction and his service-connected disabilities, opined that the Veteran's erectile dysfunction is at least as likely as not related to his PTSD.  The author of the August 2017 VHA medical opinion letter also noted that the Veteran's PTSD predates his erectile dysfunction, and stated that the Veteran's "erectile dysfunction is overwhelmingly related to his PTSD dating back to the original diagnosis date . . . ."  Given the Veteran's symptoms, the evidence of record, and the August 2017 VHA medical opinion letter, the Board finds that service connection is warranted for erectile dysfunction.  See 38 C.F.R. §§ 3.102, 3.303; Shedden, 381 F.3d at 1167.
+
+Increased rating 
+
+PTSD
+
+The Veteran filed his claim for compensation in October 2008.  His PTSD has been evaluated as 70 percent from that date.  
+
+A July 2008 Vet Center treatment record indicates that the Veteran reported that he experienced anger, poor sleep, and that he tended to "go off on [his] wife."  The report described the Veteran as displaying a neat appearance, and a friendly and cooperative attitude, with appropriate speech, orientation to time, normal memory functioning, appropriate affect, and good judgement.  The Veteran stated that he no longer had a sex drive, and described suicidal thoughts between September and November 2007.  A December 2008 Vet Center treatment record indicates that the Veteran reported hypervigilance, with outburst of anger and irritability.  An April 2009 Vet Center treatment record indicates that the Veteran reported hypervigilance.  An August 2009 Vet Center treatment record indicates that the Veteran reported isolation.  
+
+During a June 2009 VA examination to assess whether the Veteran suffered from PTSD, the Veteran reported nightmares, moodiness, irritability, insomnia, trouble controlling his temper, numb feelings, social withdrawal, conflicts at work, and conflict with his wife.  The Veteran denied panic attacks and suicidal or homicidal ideations.  He was assigned a GAF score of 70.  
+
+A December 2009 Vet Center medical opinion letter indicates that the Veteran displayed "hyper-vigilance-specifically anger/irritability[,] insomnia and numbing of general responsiveness[,] and lack of participation in significant activities-specifically a nonexistent sex drive."  The author of the letter opined that the Veteran would require supportive therapy for the rest of his life to manage his PTSD.  A December 2009 Vet Center treatment record indicates that the Veteran reported isolation and avoidance.  
+
+A January 2010 private medical opinion letter indicates that the Veteran suffered from symptoms including memory problems, recurrent distressing dreams, feelings of detachment and estrangement from others (including at work and in social situations), persistent sleep problems, persistent symptoms of irritability or outbursts of anger, difficulty concentrating, and hypervigilance.  The author of the letter opined that the Veteran's symptoms caused "clinically significant distress and impairment," in his family relations, social relations, employment, and memory and concentration (noted as severe).  He was assigned a GAF score of 45.  A January 2010 Vet Center treatment record describes the Veteran as quiet and withdrawn during group therapy, and notes that he rarely shared.    
+
+The Veteran attended a hearing before the RO in April 2010.  The Veteran reported anger and sleeplessness.  He described feeling on edge "all the time," which prevented him from going into crowds and led him to shop for groceries at midnight to avoid others.  He also described waking at night to check the doors of his house.  The Veteran stated that he worked for 20 years at the same job, without promotion, due to stress.  The Veteran also described strained relationships with his children.  At a May 2011 hearing before the RO, the Veteran reported anger and anxiety.  The Veteran's spouse stated that the Veteran's anger "is really bad."  
+
+The author of a December 2015 VA examination report opined that the Veteran experienced occupational and social impairment with reduced reliability and productivity, and noted that the Veteran's symptoms cause "clinically significant distress or impairment in social, occupational, or other important areas of functioning."  The report indicates that the Veteran suffered from depressed mood, anxiety, chronic sleep impairment, disturbances of motivation and mood, and difficulty establishing and maintaining effective work and social relationships.  The Veteran displayed normal appearance, hygiene, and behavior, no delusions or hallucinations, no disorientation, no gross impairment in thought or communication, and no danger to himself or others.  The Veteran stated that he did not have friends, and that his rage affects his marriage.  
+
+A December 2015 private medical opinion letter indicates that the Veteran suffered from symptoms including memory and concentration problems, feelings of detachment and estrangement from others, persistent sleep problems, persistent symptoms of irritability or outbursts of anger (the Veteran reported yelling at his wife and throwing things around the house), exaggerated startle response, difficulty concentrating, and hypervigilance.  The author of the letter opined that the Veteran's symptoms caused "clinically significant distress and impairment," in his family relations, marriage, and social functioning.  
+
+The evidence of record, including the Veteran's GAF scores, indicates that the Veteran suffered from mild to severe symptoms of PTSD during the period on appeal.  While the Veteran's GAF scores are not dispositive of the Veteran's level of disability, they are probative of the severity of the Veteran's PTSD during that period.  See Richard, 9 Vet. App. at 267.  The record indicates that the Veteran's symptoms during this period corresponded to symptoms of PTSD that reflected or more closely approximated a disability rating of no more than 70 percent, i.e., occupational and social impairment with deficiencies in most areas due to symptoms akin to those reported by the Veteran.  This rating is supported by the private medical opinion letters and VA examinations of record, also well as the Veteran's statements describing the functional impact of his symptoms, and is effective the date of the Veteran's claim.
+
+The next higher rating of 100 percent would be warranted for total occupational and social impairment.  In this case, the symptoms described during this time period did not rise to a level that would warrant a rating of 100 percent.  The Veteran did report symptoms including memory and concentration problems, feelings of detachment and estrangement from others, persistent sleep problems, persistent symptoms of irritability or outbursts of anger, exaggerated startle response, difficulty concentrating, and hypervigilance, but these symptoms did not manifest to a degree of severity comparable to symptoms that would necessitate a rating of 100 percent.  The Veteran did not display symptoms akin to gross impairment in thought processes or communication, persistent delusions or hallucinations, gross inappropriate behavior, persistent danger of hurting oneself or others, intermittent inability to perform activities of daily living, disorientation to time or place, or memory loss for names of close relatives, occupation, or his own name.  See Mauerhan, 16 Vet. App. at 436.  Moreover, the evidence of record, including the December 2015 VA examination report, indicates that the Veteran enjoys hobbies, such as building models and playing on his computer.  
+
+As such, the Board finds that the preponderance of the evidence is against the assignment of a rating in excess of 70 percent at any time during the appeal period. 
+
+Hearing Loss
+
+A June 2009 fee-basis VA hearing examination provided by a private examiner revealed the following puretone threshold values, in decibels:
+
+HERTZ
+500
+1000
+2000
+3000
+4000
+LEFT
+30
+20
+30
+30
+45
+RIGHT
+30
+20
+30
+30
+35
+
+The puretone threshold average (ignoring 500 hertz) was 31 in the left ear and 29 in the right ear.  The Veteran received a speech recognition score of 96 percent in both ears.  Under Table VI, these test results show that the Veteran suffered from Level I hearing impairment in both ears.  These values, when analyzed under Table VII (DC 6100), equate to a disability rating of 0 percent.  
+
+A March 2011 fee-basis VA hearing examination provided by a private examiner revealed the following puretone threshold values, in decibels:
+
+HERTZ
+500
+1000
+2000
+3000
+4000
+LEFT
+30
+25
+30
+40
+45
+RIGHT
+30
+25
+35
+40
+40
+
+The puretone threshold average (ignoring 500 hertz) was 35 in both ears.  The Veteran received a speech recognition score of 80 percent in both ears.  Under Table VI, these test results show that the Veteran suffered from Level III hearing impairment in both ears.  These values, when analyzed under Table VII (DC 6100), equate to a disability rating of 0 percent.  
+
+A December 2015 VA hearing examination revealed the following puretone threshold values, in decibels:
+
+HERTZ
+500
+1000
+2000
+3000
+4000
+LEFT
+25
+35
+45
+60
+60
+RIGHT
+25
+30
+45
+50
+55
+
+The puretone threshold average (ignoring 500 hertz) was 50 in the left ear and 45 in the right ear.  The Veteran received a speech recognition score of 78 percent in the left ear and 72 percent in the right ear.  Under Table VI, these test results show that the Veteran suffered from Level IV hearing impairment in both ears.  These values, when analyzed under Table VII, equate to a disability rating of 10 percent.  The examination report containing these results noted that the Veteran reported watching television with an increased volume, as well as using closed captioning.  The Veteran also reported that he has to "to look at people to concentrate [on] what they are saying[.]"
+
+Based upon the evidence of record, the Board finds that the Veteran suffered from no worse than Level IV hearing impairment in both ears during the period on appeal.  A rating in excess of 10 percent for the Veteran's bilateral hearing loss disability is not warranted for any point during the appeal period.  A rating of 10 percent is not warranted for the period on appeal prior to December 2015. 
+
+The Board has considered the Veteran's lay statements that his hearing loss and PTSD disabilities are worse than currently evaluated.  The Veteran is competent to report symptoms because this requires only personal knowledge as it comes to him through his senses.  Layno v. Brown, 6 Vet. App. 465 (1994).  He is not, however, competent to identify a specific level of disability of this disorder according to the appropriate diagnostic codes.  Such competent evidence concerning the nature and extent of the Veteran's disabilities has been provided by the medical personnel who have examined him during the current appeal and who have rendered pertinent opinions in conjunction with the evaluations.  The medical findings (as provided in the examination reports and the clinical records) directly address the criteria under which this disability is evaluated.  As such, the Board finds these records to be more probative than the Veteran's subjective complaints of increased symptomatology.  
+
+
+
+
+
+
+	(CONTINUED ON NEXT PAGE)
+
+
+ORDER
+
+Service connection for erectile dysfunction is granted.
+
+A rating in excess of 70 percent for PTSD is denied.
+
+A compensable rating prior to December 2015 for a bilateral hearing loss disability is denied. 
+
+A rating in excess of 10 percent for a bilateral hearing loss disability after December 2015 is denied.
+
+
+
+
+____________________________________________
+M. E. LARKIN
+Veterans Law Judge, Board of Veterans' Appeals
+
+Department of Veterans Affairs
+
+

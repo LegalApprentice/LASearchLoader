@@ -1,18 +1,50 @@
-
+import json
+import os
+from icecream import ic
 from datetime import datetime
 from elasticsearch import Elasticsearch
 
 # https://elasticsearch-py.readthedocs.io/en/7.x/
 
+##  elastic,0ylcAoLjmIvoWpxNcgwdhcND
+
+# if 'ELASTIC_CLOUD_ID' in os.environ:
+#       es = Elasticsearch(
+#     cloud_id=os.environ['ELASTIC_CLOUD_ID'],
+#     basic_auth=(os.environ['ELASTIC_USER'], os.environ['ELASTIC_PASSWORD']),
+#     request_timeout=30
+#   )
+# elif 'ELASTIC_URL' in os.environ:
+#   es = Elasticsearch(
+#     os.environ['ELASTIC_URL'],
+#     basic_auth=(os.environ['ELASTIC_USER'], os.environ['ELASTIC_PASSWORD']),
+#     request_timeout=30
+#   )
+# else:
+#   print("env needs to set either ELASTIC_CLOUD_ID or ELASTIC_URL")
+
+# if es:
+#     ic(es.info()['tagline']) # should return cluster info
+
 class ElasticSearchWrapper:
-    def __init__(self, url):
+    def __init__(self):
 
         # url = 'https://cdb55929da7544268b1880b042fcf11c.eastus2.azure.elastic-cloud.com:9243'
         # self.es = Elasticsearch(hosts=[url], http_auth=('elastic', 'mwm4q0n3QUhm3ixBwgR4OI9y'))
-        if url is None:
-            self.es = Elasticsearch()
-        else:
-            self.es = Elasticsearch(hosts=[url])
+        
+        self.es = Elasticsearch(
+            'https://apprentice.es.us-central1.gcp.cloud.es.io',
+            cloud_id='5Sq6X7ilS7-Qyk9Oz1AW6A',
+            basic_auth=('elastic', '0ylcAoLjmIvoWpxNcgwdhcND'),
+            request_timeout=30)
+       
+        # if self.es:
+        #     ic(self.es.info()['tagline']) # should return cluster info
+
+        # if url is None:
+        #     self.es = es
+        # else:
+        #     self.es = Elasticsearch(hosts=[url])
             
     def smoketest(self):
         index = 'smoke-index'
